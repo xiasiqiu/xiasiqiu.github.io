@@ -1,7 +1,6 @@
 {
     "code": 200,
-    "datas": {
-        "itemList": [
+    "itemList": [
             {
                 "itemId": 75,
                 "specialId": 0,
@@ -131,5 +130,5 @@
                 "itemTypeText": "双列多行商品模块"
             }
         ]
-    }
+    
 }
