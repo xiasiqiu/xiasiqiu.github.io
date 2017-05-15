@@ -1,14 +1,6 @@
 {
     "code": 200,
     "datas": {
-        "adv": {
-            "itemId": 77,
-            "specialId": 0,
-            "itemType": "ad",
-            "itemData": "[{\"image\":\"image/a9/e8/a9e8241550bd1f8885ee4ca2cbb7d215.jpg\",\"type\":\"special\",\"data\":\"10\",\"imageUrl\":\"https://java.bizpower.com/upload/image/a9/e8/a9e8241550bd1f8885ee4ca2cbb7d215.jpg\"}]",
-            "itemSort": 3,
-            "itemTypeText": "单列单张大图模块"
-        },
         "brandList": [
             {
                 "brandId": 256,
