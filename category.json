@@ -14,7 +14,7 @@
           {
             "categoryId": 4,
             "categoryName": "热销产品",
-            "parentId": 1,
+            "parentId": 0,
             "categorySort": 0,
             "deep": 2,
             "appImage": null,
@@ -327,7 +327,7 @@
           {
             "categoryId": 5,
             "categoryName": "品牌墙",
-            "parentId": 1,
+            "parentId": 0,
             "categorySort": 0,
             "deep": 2,
             "appImage": null,
