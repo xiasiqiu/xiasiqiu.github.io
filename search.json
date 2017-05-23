@@ -86,19 +86,19 @@
                 {
                     "keyitem": [
                         {
-                            "categoryName": "移动",
+                            "categoryName": "移动"
                             
                         },
                         {
-                            "categoryName": "电信",
+                            "categoryName": "电信"
                             
                         },
                         {
-                            "categoryName": "联通",
+                            "categoryName": "联通"
                             
                         },
                         {
-                            "categoryName": "移动/电信/联通",
+                            "categoryName": "移动/电信/联通"
                             
                         }
                     ],
@@ -107,19 +107,19 @@
                 {
                     "keyitem": [
                         {
-                            "categoryName": "安卓",
+                            "categoryName": "安卓"
                             
                         },
                         {
-                            "categoryName": "苹果",
+                            "categoryName": "苹果"
                             
                         },
                         {
-                            "categoryName": "微软",
+                            "categoryName": "微软"
                             
                         },
                         {
-                            "categoryName": "其他",
+                            "categoryName": "其他"
                             
                         }
                     ],
@@ -128,27 +128,27 @@
                 {
                     "keyitem": [
                         {
-                            "categoryName": "1200mAh以下",
+                            "categoryName": "1200mAh以下"
                             
                         },
                         {
-                            "categoryName": "1200mAh-1999mAh",
+                            "categoryName": "1200mAh-1999mAh"
                             
                         },
                         {
-                            "categoryName": "2000mAh-2999mAh",
+                            "categoryName": "2000mAh-2999mAh"
                             
                         },
                         {
-                            "categoryName": "3000mAh-3999mAh",
+                            "categoryName": "3000mAh-3999mAh"
+                           
+                        },
+                        {
+                            "categoryName": "4000mAh-5999mAh"
                             
                         },
                         {
-                            "categoryName": "4000mAh-5999mAh",
-                            
-                        },
-                        {
-                            "categoryName": "6000mAh以上",
+                            "categoryName": "6000mAh以上"
                             
                         }
                     ],
@@ -157,43 +157,43 @@
                 {
                     "keyitem": [
                         {
-                            "categoryName": "红色",
+                            "categoryName": "红色"
                             
                         },
                         {
-                            "categoryName": "白色",
+                            "categoryName": "白色"
                             
                         },
                         {
-                            "categoryName": "黑色",
+                            "categoryName": "黑色"
                             
                         },
                         {
-                            "categoryName": "金色",
+                            "categoryName": "金色"
                             
                         },
                         {
-                            "categoryName": "粉色",
+                            "categoryName": "粉色"
                             
                         },
                         {
-                            "categoryName": "蓝色",
+                            "categoryName": "蓝色"
                             
                         },
                         {
-                            "categoryName": "银色",
+                            "categoryName": "银色"
                             
                         },
                         {
-                            "categoryName": "紫色",
+                            "categoryName": "紫色"
                             
                         },
                         {
-                            "categoryName": "黄色",
+                            "categoryName": "黄色"
                             
                         },
                         {
-                            "categoryName": "灰色",
+                            "categoryName": "灰色"
                             
                         }
                     ],
