@@ -66,24 +66,19 @@
                 {
                     "keyitem": [
                         {
-                            "categoryName": "8G",
-                            "field": "value"
+                            "categoryName": "8G"
                         },
                         {
-                            "categoryName": "16G",
-                            "field": "value"
+                            "categoryName": "16G"
                         },
                         {
-                            "categoryName": "32G",
-                            "field": "value"
+                            "categoryName": "32G"
                         },
                         {
-                            "categoryName": "64G",
-                            "field": "value"
+                            "categoryName": "64G"
                         },
                         {
-                            "categoryName": "128G",
-                            "field": "value"
+                            "categoryName": "128G"
                         }
                     ],
                     "categoryName": "机身内存"
@@ -92,19 +87,19 @@
                     "keyitem": [
                         {
                             "categoryName": "移动",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "电信",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "联通",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "移动/电信/联通",
-                            "field": "value"
+                            
                         }
                     ],
                     "categoryName": "网络"
@@ -113,19 +108,19 @@
                     "keyitem": [
                         {
                             "categoryName": "安卓",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "苹果",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "微软",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "其他",
-                            "field": "value"
+                            
                         }
                     ],
                     "categoryName": "系统"
@@ -134,27 +129,27 @@
                     "keyitem": [
                         {
                             "categoryName": "1200mAh以下",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "1200mAh-1999mAh",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "2000mAh-2999mAh",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "3000mAh-3999mAh",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "4000mAh-5999mAh",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "6000mAh以上",
-                            "field": "value"
+                            
                         }
                     ],
                     "categoryName": "电池容量"
@@ -163,43 +158,43 @@
                     "keyitem": [
                         {
                             "categoryName": "红色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "白色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "黑色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "金色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "粉色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "蓝色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "银色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "紫色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "黄色",
-                            "field": "value"
+                            
                         },
                         {
                             "categoryName": "灰色",
-                            "field": "value"
+                            
                         }
                     ],
                     "categoryName": "机身颜色"
