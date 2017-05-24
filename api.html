@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF8">
+    <title></title>
+    <style type="text/css">
+        #container {
+            margin: 8px;
+        }
+
+        .param-table {
+            background: #E6E6E6;
+            border: 1px solid #FFF;
+            margin: 12px 0;
+            border-collapse: collapse;
+        }
+
+        .param-table th {
+            background: gray;
+            color: #FFF;
+            font-size: 14px;
+            font-weight: bold;
+            text-align: center;
+            border: 1px solid #FFF;
+            padding: 5px;
+        }
+
+        .param-table td {
+            border-collapse: collapse;
+            border: 1px solid #FFF;
+            font-size: 12px;
+            padding: 5px;
+        }
+
+        .param-table .th-name {
+            min-width: 140px;
+        }
+
+        .param-table .th-identifier {
+            min-width: 140px;
+        }
+
+        .param-table .th-type {
+            min-width: 100px;
+        }
+
+        .param-table .th-remark {
+            min-width: 200px;
+        }
+
+        .param-table .td-name {}
+
+        .param-table .td-identifier {}
+
+        .param-table .td-type   { color: #990000; }
+
+        .param-table .td-remark { color: #666; }
+
+        .param-table .tr-level-1 { background: #F5F5F5; }
+        .param-table .tr-level-1 .td-identifier { padding-left: 5px; }
+
+        .param-table .tr-level-2 { background: #E6E6E6; }
+        .param-table .tr-level-2 .td-identifier { padding-left: 15px; }
+
+        .param-table .tr-level-3 { background: #CCCCCC; }
+        .param-table .tr-level-3 .td-identifier { padding-left: 25px; }
+
+        .param-table .tr-level-4 { background: #E6E6E6; }
+        .param-table .tr-level-4 .td-identifier { padding-left: 35px; }
+
+        .param-table .tr-level-5 { background: #CCCCCC; }
+        .param-table .tr-level-5 .td-identifier { padding-left: 45px; }
+
+        .param-table .tr-level-6 { background: #E6E6E6; }
+        .param-table .tr-level-6 .td-identifier { padding-left: 55px; }
+
+        .param-table .tr-level-7 { background: #CCCCCC; }
+        .param-table .tr-level-7 .td-identifier { padding-left: 65px; }
+
+        .param-table .tr-level-8 { background: #E6E6E6; }
+        .param-table .tr-level-8 .td-identifier { padding-left: 75px; }
+
+        .param-table .tr-level-9 { background: #CCCCCC; }
+        .param-table .tr-level-9 .td-identifier { padding-left: 85px; }
+
+        .param-table .tr-level-10 { background: #E6E6E6; }
+        .param-table .tr-level-10 .td-identifier { padding-left: 95px; }
+
+        .param-table .tr-level-11 {
+            background: #CCCCCC;
+        }
+        .param-table .tr-level-11 .td-identifier { padding-left: 105px; }
+
+        .param-table .tr-level-12 {
+            background: #E6E6E6;
+        }
+        .param-table .tr-level-12 .td-identifier { padding-left: 115px; }
+
+        .param-table .tr-level-13 {
+            background: #CCCCCC;
+        }
+        .param-table .tr-level-13 .td-identifier { padding-left: 125px; }
+    </style>
+</head>
+<body>
+<div id="container">
+            <div class="module">
+            <h1>1&nbsp;某模块（点击编辑后双击修改）</h1>
+                            <div class="page">
+                    <h2>1.1&nbsp;APP</h2>
+                                            <div class="action">
+                            <h3>1.1.1&nbsp;分类</h3>
+
+                            <h3>URL</h3>
+                            <div>http://tututo.me/category.json</div>
+
+                            <h3>Method</h3>
+                            <div>GET</div>
+
+                            <h3>Description</h3>
+                            <div></div>
+
+                            <h3>Request Param List</h3>
+                            <table class="param-table"><thead><th class="th-name">Name</th><th class="th-identifier">Identifier</th><th class="th-type">Type</th><th class="th-remark">Remark</th></thead></table>
+
+                            <h3>Response Param List</h3>
+                            <table class="param-table"><thead><th class="th-name">Name</th><th class="th-identifier">Identifier</th><th class="th-type">Type</th><th class="th-remark">Remark</th></thead><tr class="tr-level-1"><td class="td-name"></td><td class="td-identifier">datas</td><td class="td-type">object</td><td class="td-remark"></td></tr><tr class="tr-level-2"><td class="td-name">---分类列表</td><td class="td-identifier">categoryList|15</td><td class="td-type">array&lt;object&gt;</td><td class="td-remark"></td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">categoryName</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;推荐分类&#39;,&#39;服饰鞋帽&#39;,&#39;数码办公&#39;,&#39;礼品箱包&#39;,&#39;家居家装&#39;,&#39;厨房餐饮&#39;,&#39;个护化妆&#39;,&#39;食品饮料&#39;,&#39;珠宝手表&#39;,&#39;汽车用品&#39;,&#39;家用电器&#39;,&#39;运动健康&#39;,&#39;玩具乐器&#39;,&#39;母婴用品&#39;,&#39;虚拟充值&#39;)</td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">categoryId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,1,256,2,3,888,470,593,530,730,308,662,825,959,1037)</td></tr><tr class="tr-level-3"><td class="td-name">------主分类图片地址</td><td class="td-identifier">appImageUrl</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/a9/e8/a9e8241550bd1f8885ee4ca2cbb7d215.jpg&#39;,&#39;https://imgjd2.fruitday.com/images/2017-04-27/ded5af4a396654f250b3c7eb4e3066b2.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/a9/e8/a9e8241550bd1f8885ee4ca2cbb7d215.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/a9/e8/a9e8241550bd1f8885ee4ca2cbb7d215.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/a9/e8/a9e8241550bd1f8885ee4ca2cbb7d215.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/ff/fe/fffe3a4233ca2e2dcaefd3efbe653de7.jpg&#39;,&#39;https://java.bizpower.com/upload/image/a9/e8/a9e8241550bd1f8885ee4ca2cbb7d215.jpg&#39;)</td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">categorySort</td><td class="td-type">number</td><td class="td-remark">@mock=$order(1,1,2,3,4,5,6,7,8,8,9,11,12,13,14)</td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">category</td><td class="td-type"></td><td class="td-remark"></td></tr><tr class="tr-level-3"><td class="td-name">------主分类图片</td><td class="td-identifier">appImage</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;image/2b/b9/2bb9f8de7312248c7c9238fb3042ef98.png&#39;,&#39;image/0d/ae/0daef4879fd6ab6cd5817a4961f94eef.png&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;&#39;,&#39;image/06/01/0601d7579c3bc51f843e0a1a2597c66d.png&#39;,&#39;image/e3/fd/e3fdd20540e11279ea8c2008189d7215.png&#39;,&#39;image/86/23/8623487d2833c2066bd6f5a222e7937e.png&#39;)</td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">channelId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)</td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">parentId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)</td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">categoryList</td><td class="td-type">array&lt;object&gt;</td><td class="td-remark"></td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">deep</td><td class="td-type">number</td><td class="td-remark">@mock=$order(2,2)</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categoryId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(4,5)</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categoryName</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;热销产品&#39;,&#39;品牌墙&#39;)</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">category</td><td class="td-type"></td><td class="td-remark"></td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categorySort</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0)</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">indexCategoryNav</td><td class="td-type"></td><td class="td-remark"></td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">appImageUrl</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;http://misc.360buyimg.com/user/steward/widget/headerTwice/i/list-twice-0.jpg&#39;,&#39;http://misc.360buyimg.com/user/steward/widget/headerTwice/i/list-twice-0.jpg&#39;)</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">parentId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0)</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">channelId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0)</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">appImage</td><td class="td-type"></td><td class="td-remark"></td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categoryList</td><td class="td-type">array&lt;object&gt;</td><td class="td-remark"></td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">appImage</td><td class="td-type"></td><td class="td-remark"></td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">categoryName</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;移动电源&#39;,&#39;耳机&#39;,&#39;电池&#39;,&#39;智能手环&#39;,&#39;蓝牙耳机&#39;,&#39;拍照配件&#39;,&#39;连衣裙&#39;)</td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">category</td><td class="td-type"></td><td class="td-remark"></td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">categorySort</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0,0,0,0,0,0)</td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">deep</td><td class="td-type">number</td><td class="td-remark">@mock=$order(3,3,3,3,3,3,3)</td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">channelId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0,0,0,0,0,0)</td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">appImageUrl</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;http://misc.360buyimg.com/user/steward/widget/headerTwice/i/list-twice-2.jpg&#39;,&#39;http://misc.360buyimg.com/user/steward/widget/headerTwice/i/list-twice-11.jpg&#39;,&#39;http://img14.360buyimg.com/uba/jfs/t2650/131/1667863705/5366/3c865e34/57456936N9f0fbd50.png&#39;,&#39;http://img10.360buyimg.com/n5/jfs/t3271/346/1522884387/64811/f41393e8/57ce654cN970d724a.jpg&#39;,&#39;http://misc.360buyimg.com/user/steward/widget/headerTwice/i/list-twice-3.jpg&#39;,&#39;http://img13.360buyimg.com/n5/s54x54_jfs/t1702/189/1323328995/52272/e94d9ae7/55caa2c0N7a055da8.jpg&#39;,&#39;http://misc.360buyimg.com/user/steward/widget/headerTwice/i/list-twice-0.jpg&#39;)</td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">indexCategoryNav</td><td class="td-type"></td><td class="td-remark"></td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">parentId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(4,4,4,4,4,4,4)</td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">categoryId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(12,13,14,15,16,17,18)</td></tr><tr class="tr-level-5"><td class="td-name">------------</td><td class="td-identifier">categoryList</td><td class="td-type">object</td><td class="td-remark"></td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">deep</td><td class="td-type">number</td><td class="td-remark">@mock=$order(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)</td></tr><tr class="tr-level-3"><td class="td-name">------</td><td class="td-identifier">indexCategoryNav</td><td class="td-type">object</td><td class="td-remark"></td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categoryNavAdvJson</td><td class="td-type">string</td><td class="td-remark">@mock=[{&quot;image&quot;:&quot;image/96/ba/96ba6dda90b7b886da5029f20bda059e.jpg&quot;,&quot;link&quot;:&quot;&quot;,&quot;text&quot;:&quot;&quot;,&quot;type&quot;:&quot;none&quot;},{&quot;image&quot;:&quot;image/46/31/4631ee23c4c006cc9b690352310029e9.jpg&quot;,&quot;link&quot;:&quot;&quot;,&quot;text&quot;:&quot;&quot;,&quot;type&quot;:&quot;none&quot;},{&quot;image&quot;:&quot;image/48/3c/483ce8dd1e62cf062aa9cdc57f294157.jpg&quot;,&quot;link&quot;:&quot;&quot;,&quot;text&quot;:&quot;&quot;,&quot;type&quot;:&quot;none&quot;}]</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categoryNavImage</td><td class="td-type">string</td><td class="td-remark">@mock=image/7f/fd/7ffd359946c50077ed87812902597caf.png</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categoryId</td><td class="td-type">number</td><td class="td-remark">@mock=1</td></tr><tr class="tr-level-4"><td class="td-name">---------</td><td class="td-identifier">categoryNavUpdateTime</td><td class="td-type">string</td><td class="td-remark">@mock=2016-09-20 10:14:36</td></tr><tr class="tr-level-1"><td class="td-name">响应码</td><td class="td-identifier">code</td><td class="td-type">number</td><td class="td-remark">@mock=200</td></tr></table>
+                        </div>
+                                            <div class="action">
+                            <h3>1.1.2&nbsp;首页</h3>
+
+                            <h3>URL</h3>
+                            <div>http://tututo.me/mallapi.json</div>
+
+                            <h3>Method</h3>
+                            <div>GET</div>
+
+                            <h3>Description</h3>
+                            <div></div>
+
+                            <h3>Request Param List</h3>
+                            <table class="param-table"><thead><th class="th-name">Name</th><th class="th-identifier">Identifier</th><th class="th-type">Type</th><th class="th-remark">Remark</th></thead></table>
+
+                            <h3>Response Param List</h3>
+                            <table class="param-table"><thead><th class="th-name">Name</th><th class="th-identifier">Identifier</th><th class="th-type">Type</th><th class="th-remark">Remark</th></thead><tr class="tr-level-1"><td class="td-name">响应码</td><td class="td-identifier">code</td><td class="td-type">number</td><td class="td-remark">@mock=200</td></tr><tr class="tr-level-1"><td class="td-name">数据包</td><td class="td-identifier">datas</td><td class="td-type">object</td><td class="td-remark"></td></tr><tr class="tr-level-2"><td class="td-name">---首页数据列表</td><td class="td-identifier">itemList|15</td><td class="td-type">array&lt;object&gt;</td><td class="td-remark"></td></tr><tr class="tr-level-3"><td class="td-name">------类别</td><td class="td-identifier">itemType</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;banner&#39;,&#39;notice&#39;,&#39;homemenu&#39;,&#39;ad&#39;,&#39;tab_title&#39;,&#39;tab&#39;,&#39;ad&#39;,&#39;tab_title&#39;,&#39;tab&#39;,&#39;tab_title&#39;,&#39;category&#39;,&#39;tab_title&#39;,&#39;category&#39;,&#39;tab_title&#39;,&#39;goodslist&#39;)</td></tr><tr class="tr-level-3"><td class="td-name">------首页数据</td><td class="td-identifier">itemData</td><td class="td-type">array&lt;object&gt;</td><td class="td-remark"></td></tr><tr class="tr-level-4"><td class="td-name">---------图片地址</td><td class="td-identifier">imageUrl</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;https://imgqn2.fruitday.com/images/2017-05-08/3939a1d9231eb02dd507744befbb2823.jpg&#39;,&#39;https://imgqn2.fruitday.com/images/2017-03-03/6b24de7a7a42699abd07bb812c2d465e.jpg&#39;,&#39;https://imgqn2.fruitday.com/images/2017-05-07/6314f8e67de76b26bd528297db56f8e7.jpg&#39;)</td></tr><tr class="tr-level-4"><td class="td-name">---------类型</td><td class="td-identifier">type</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;keyword&#39;,&#39;store&#39;,&#39;keyword&#39;)</td></tr><tr class="tr-level-4"><td class="td-name">---------内容</td><td class="td-identifier">data</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;音响&#39;,&#39;21&#39;,&#39;双立人&#39;)</td></tr><tr class="tr-level-4"><td class="td-name">---------图片</td><td class="td-identifier">image</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;image/ab/b9/abb9cbad4ec31b586d9b429919cd70ed.jpg&#39;,&#39;image/9c/a8/9ca837ea05b166b55ca71d365089ffef.jpg&#39;,&#39;image/44/b8/44b8b7cf98aa0859750a8b6b4bf5633f.jpg&#39;)</td></tr><tr class="tr-level-3"><td class="td-name">------类别名称</td><td class="td-identifier">itemTypeText</td><td class="td-type">string</td><td class="td-remark">@mock=$order(&#39;焦点广告图模块&#39;,&#39;公告栏目&#39;,&#39;菜单模块&#39;,&#39;单列单张大图模块&#39;,&#39;标题或间隔型模块&#39;,&#39;六列单行图片模块&#39;,&#39;单列单张大图模块&#39;,&#39;标题或间隔型模块&#39;,&#39;六列单行图片模块&#39;,&#39;标题或间隔型模块&#39;,&#39;单列单张大图模块&#39;,&#39;标题或间隔型模块&#39;,&#39;单列单张大图模块&#39;,&#39;标题或间隔型模块&#39;,&#39;双列多行商品模块&#39;)</td></tr><tr class="tr-level-3"><td class="td-name">------itemid</td><td class="td-identifier">itemId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(75,174,174,77,137,170,113,163,172,163,77,163,77,163,164)</td></tr><tr class="tr-level-3"><td class="td-name">------排序</td><td class="td-identifier">itemSort</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14)</td></tr><tr class="tr-level-3"><td class="td-name">------唯一值</td><td class="td-identifier">specialId</td><td class="td-type">number</td><td class="td-remark">@mock=$order(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)</td></tr></table>
+                        </div>
+                                    </div>
+                    </div>
+    </div>
+</body>
+</html>
