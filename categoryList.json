@@ -1,6 +1,7 @@
 {
   "code": 200,
-  "datas": [
+  "datas": {
+"categoryList":[
       {
         "categoryId": 0,
         "categoryName": "推荐分类",
@@ -13903,5 +13904,5 @@
           "categoryNavUpdateTime": "2016-09-20 09:56:08"
         }
       }
-    ]
+    ]}
 }
