@@ -1,7 +1,7 @@
 {
     "code": 200,
     "datas": {
-        "itemList": [
+        "moduleList": [
             {
                 "itemId": 75,
                 "itemType": "banner",
@@ -328,7 +328,7 @@
                 "itemTypeText": "标题或间隔型模块"
             }
         ],
-        "itemgood": [
+        "goodList": [
             {
                 "commonId": 296,
                 "goodsName": "魔声（Monster）Element 元素 头戴包耳无线蓝牙耳机 触控按键运动耳机",
