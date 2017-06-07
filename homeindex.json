@@ -101,7 +101,13 @@
                         "type": "extension",
                         "data": "推广中心",
                         "imageUrl": "http://tututo.me/images/home_menu9.png"
+                    },
+					{
+                        "type": "sign",
+                        "data": "签到",
+                        "imageUrl": "http://tututo.me/images/home_menu10.png"
                     }
+					
                 ],
                 "itemSort": 2,
                 "itemTypeText": "菜单模块"
