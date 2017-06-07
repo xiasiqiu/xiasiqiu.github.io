@@ -177,7 +177,7 @@
         ],
         "itemSort": 5,
         "itemTypeText": "六列单行图片模块",
-        "itemtitleImage": "http://tututo.me/images/img_tab_title1",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title1.png",
         "itemtitleCN": "潮流前沿",
         "itemtitleEN": "Tidal front",
         "itemtitleColor": "#00672a"
@@ -232,7 +232,7 @@
         ],
         "itemSort": 8,
         "itemTypeText": "六列单行图片模块",
-        "itemtitleImage": "http://tututo.me/images/img_tab_title2",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title2.png",
         "itemtitleCN": "品质生活",
         "itemtitleEN": "Quality life",
         "itemtitleColor": "#6c3717"
@@ -249,7 +249,7 @@
         ],
         "itemSort": 10,
         "itemTypeText": "单列单张大图模块",
-        "itemtitleImage": "http://tututo.me/images/img_tab_title3",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title3.png",
         "itemtitleCN": "潮电酷玩",
         "itemtitleEN": "Tidal power Coldplay",
         "itemtitleColor": "#24ade9"
@@ -266,7 +266,7 @@
         ],
         "itemSort": 12,
         "itemTypeText": "单列单张大图模块",
-        "itemtitleImage": "http://tututo.me/images/img_tab_title4",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title4.png",
         "itemtitleCN": "户外出行",
         "itemtitleEN": "Outdoor travel",
         "itemtitleColor": "#19c8a9"
@@ -283,7 +283,7 @@
         ],
         "itemSort": 12,
         "itemTypeText": "单列单张大图模块",
-        "itemtitleImage": "http://tututo.me/images/img_tab_title5",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title5.png",
         "itemtitleCN": "美丽人生",
         "itemtitleEN": "Beautiful life",
         "itemtitleColor": "#19c8a9"
@@ -291,7 +291,7 @@
     ],
     "goodModule": {
       "goodInfo": {
-        "itemtitleImage": "http://tututo.me/images/img_tab_title6",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title6.png",
         "itemtitleCN": "个性推荐",
         "itemtitleEN": "recommendation",
         "itemtitleColor": "#ea5f7a"
