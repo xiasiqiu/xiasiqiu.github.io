@@ -1,0 +1,383 @@
+{
+  "code": 200,
+  "datas": {
+    "moduleList": [
+      {
+        "itemId": 75,
+        "itemType": "banner",
+        "dataList": [
+          {
+            "type": "good",
+            "data": "荔枝",
+            "imageUrl": "https://imgqn2.fruitday.com/images/2017-05-08/3939a1d9231eb02dd507744befbb2823.jpg"
+          },
+          {
+            "type": "activity",
+            "data": "新人专享",
+            "imageUrl": "https://imgqn2.fruitday.com/images/2017-03-03/6b24de7a7a42699abd07bb812c2d465e.jpg"
+          },
+          {
+            "type": "group",
+            "data": "小龙虾团购",
+            "imageUrl": "https://imgqn2.fruitday.com/images/2017-05-07/6314f8e67de76b26bd528297db56f8e7.jpg"
+          }
+        ],
+        "itemSort": 0,
+        "itemTypeText": "焦点广告图模块",
+        "itemtitleImage": "",
+        "itemtitleCN": "",
+        "itemtitleEN": "",
+        "itemtitleColor": ""
+      },
+      {
+        "itemId": 174,
+        "itemType": "notice",
+        "dataList": [
+          {
+            "type": "notice",
+            "data": "系统通知",
+            "imageUrl": "12月12日零时进行系统维护，届时将关闭系统，请所有商家及会员做好准备！"
+          },
+          {
+            "type": "exchange",
+            "data": "李***四",
+            "imageUrl": "积分兑换了I8大礼包一份"
+          },
+          {
+            "type": "news",
+            "data": "新闻公告",
+            "imageUrl": "今日推出线下活动，双流区代理商优惠多多！"
+          },
+          {
+            "type": "exchange",
+            "data": "王***五",
+            "imageUrl": "积分兑换了加油卡三年套餐返现礼包一份"
+          }
+        ],
+        "itemSort": 1,
+        "itemTypeText": "公告栏目",
+        "itemtitleImage": "",
+        "itemtitleCN": "",
+        "itemtitleEN": "",
+        "itemtitleColor": ""
+      },
+      {
+        "itemId": 174,
+        "itemType": "homemenu",
+        "dataList": [
+          {
+            "type": "brand",
+            "data": "品牌店铺",
+            "imageUrl": "http://tututo.me/images/home_menu5.png"
+          },
+          {
+            "type": "card",
+            "data": "加油卡",
+            "imageUrl": "http://tututo.me/images/home_menu4.png"
+          },
+          {
+            "type": "house",
+            "data": "房产中心",
+            "imageUrl": "http://tututo.me/images/home_menu3.png"
+          },
+          {
+            "type": "score",
+            "data": "积分中心",
+            "imageUrl": "http://tututo.me/images/home_menu2.png"
+          },
+          {
+            "type": "all",
+            "data": "查看更多",
+            "imageUrl": "http://tututo.me/images/home_menu1.png"
+          },
+          {
+            "type": "groupmall",
+            "data": "团购商城",
+            "imageUrl": "http://tututo.me/images/home_menu6.png"
+          },
+          {
+            "type": "xyfinance",
+            "data": "鑫园金融",
+            "imageUrl": "http://tututo.me/images/home_menu7.png"
+          },
+          {
+            "type": "oerate",
+            "data": "运营中心",
+            "imageUrl": "http://tututo.me/images/home_menu8.png"
+          },
+          {
+            "type": "extension",
+            "data": "推广中心",
+            "imageUrl": "http://tututo.me/images/home_menu9.png"
+          },
+          {
+            "type": "sign",
+            "data": "签到",
+            "imageUrl": "http://tututo.me/images/home_menu10.png"
+          }
+        ],
+        "itemSort": 2,
+        "itemTypeText": "菜单模块",
+        "itemtitleImage": "",
+        "itemtitleCN": "",
+        "itemtitleEN": "",
+        "itemtitleColor": ""
+      },
+      {
+        "itemId": 77,
+        "itemType": "ad",
+        "dataList": [
+          {
+            "type": "special",
+            "data": "10",
+            "imageUrl": "http://tututo.me/images/ad_1.png"
+          }
+        ],
+        "itemSort": 3,
+        "itemTypeText": "单列单张大图模块",
+        "itemtitleImage": "",
+        "itemtitleCN": "",
+        "itemtitleEN": "",
+        "itemtitleColor": ""
+      },
+      {
+        "itemId": 170,
+        "itemType": "tab",
+        "dataList": [
+          {
+            "type": "brand",
+            "data": "连衣裙",
+            "imageUrl": "http://tututo.me/images/tab1_1.png"
+          },
+          {
+            "type": "activity",
+            "data": "冰箱",
+            "imageUrl": "http://tututo.me/images/tab1_2.png"
+          },
+          {
+            "type": "keyword",
+            "data": "汽车",
+            "imageUrl": "http://tututo.me/images/tab1_3.png"
+          },
+          {
+            "type": "activity",
+            "data": "电脑",
+            "imageUrl": "http://tututo.me/images/tab1_4.png"
+          },
+          {
+            "type": "good",
+            "data": "女包",
+            "imageUrl": "http://tututo.me/images/tab1_5.png"
+          },
+          {
+            "type": "good",
+            "data": "婴儿",
+            "imageUrl": "http://tututo.me/images/tab1_6.png"
+          }
+        ],
+        "itemSort": 5,
+        "itemTypeText": "六列单行图片模块",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title1",
+        "itemtitleCN": "潮流前沿",
+        "itemtitleEN": "Tidal front",
+        "itemtitleColor": "#00672a"
+      },
+      {
+        "itemId": 113,
+        "itemType": "ad",
+        "dataList": [
+          {
+            "type": "special",
+            "data": "9",
+            "imageUrl": "http://tututo.me/images/ad_2.png"
+          }
+        ],
+        "itemSort": 6,
+        "itemTypeText": "单列单张大图模块"
+      },
+      {
+        "itemId": 172,
+        "itemType": "tab",
+        "dataList": [
+          {
+            "type": "brand",
+            "data": "李宁",
+            "imageUrl": "http://tututo.me/images/tab2_1.png"
+          },
+          {
+            "type": "activity",
+            "data": "零食",
+            "imageUrl": "http://tututo.me/images/tab2_2.png"
+          },
+          {
+            "type": "keyword",
+            "data": "手机",
+            "imageUrl": "http://tututo.me/images/tab2_3.png"
+          },
+          {
+            "type": "activity",
+            "data": "李宁",
+            "imageUrl": "http://tututo.me/images/tab2_4.png"
+          },
+          {
+            "type": "good",
+            "data": "女包",
+            "imageUrl": "http://tututo.me/images/tab2_5.png"
+          },
+          {
+            "type": "good",
+            "data": "婴儿",
+            "imageUrl": "http://tututo.me/images/tab2_6.png"
+          }
+        ],
+        "itemSort": 8,
+        "itemTypeText": "六列单行图片模块",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title2",
+        "itemtitleCN": "品质生活",
+        "itemtitleEN": "Quality life",
+        "itemtitleColor": "#6c3717"
+      },
+      {
+        "itemId": 77,
+        "itemType": "category",
+        "dataList": [
+          {
+            "type": "special",
+            "data": "10",
+            "imageUrl": "http://tututo.me/images/category1.png"
+          }
+        ],
+        "itemSort": 10,
+        "itemTypeText": "单列单张大图模块",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title3",
+        "itemtitleCN": "潮电酷玩",
+        "itemtitleEN": "Tidal power Coldplay",
+        "itemtitleColor": "#24ade9"
+      },
+      {
+        "itemId": 77,
+        "itemType": "category",
+        "dataList": [
+          {
+            "type": "special",
+            "data": "10",
+            "imageUrl": "http://tututo.me/images/category2.png"
+          }
+        ],
+        "itemSort": 12,
+        "itemTypeText": "单列单张大图模块",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title4",
+        "itemtitleCN": "户外出行",
+        "itemtitleEN": "Outdoor travel",
+        "itemtitleColor": "#19c8a9"
+      },
+      {
+        "itemId": 77,
+        "itemType": "category",
+        "dataList": [
+          {
+            "type": "special",
+            "data": "10",
+            "imageUrl": "http://tututo.me/images/category3.png"
+          }
+        ],
+        "itemSort": 12,
+        "itemTypeText": "单列单张大图模块",
+        "itemtitleImage": "http://tututo.me/images/img_tab_title5",
+        "itemtitleCN": "美丽人生",
+        "itemtitleEN": "Beautiful life",
+        "itemtitleColor": "#19c8a9"
+      }
+    ],
+    "goodModule": {
+      "goodInfo": {
+        "itemtitleImage": "http://tututo.me/images/img_tab_title6",
+        "itemtitleCN": "个性推荐",
+        "itemtitleEN": "recommendation",
+        "itemtitleColor": "#ea5f7a"
+      },
+      "goodList": [
+        {
+          "commonId": 296,
+          "goodsName": "魔声（Monster）Element 元素 头戴包耳无线蓝牙耳机 触控按键运动耳机",
+          "appPriceMin": 2999,
+          "goodsPrice": 2999,
+          "sellnum": 1223,
+          "imageUrl": "https://uploadjava.bizpower.com/image/fb/69/fb696746e403b44c0b093cecb42250d8.jpg"
+        },
+        {
+          "commonId": 288,
+          "goodsName": "Razer/雷蛇 战神无线游戏耳机MANO’WAR耳麦7.1声道幻彩版",
+          "appPriceMin": 1299,
+          "goodsPrice": 1299,
+          "sellnum": 2471,
+          "imageUrl": "https://uploadjava.bizpower.com/image/0a/b2/0ab21ca1b7f3641887f533eae702bfa8.jpg"
+        },
+        {
+          "commonId": 288,
+          "goodsName": "蔻驰（COACH） 单肩包 皮质手提包斜挎包 女包 大号贝壳包",
+          "appPriceMin": 1580,
+          "goodsPrice": 1580,
+          "sellnum": 823,
+          "imageUrl": "https://uploadjava.bizpower.com/image/58/89/58890299f4a43369e5c1aa0501d3d9c6.jpg"
+        },
+        {
+          "commonId": 281,
+          "goodsName": "山东新鲜蓝莓 4盒装 125g/盒 新鲜水果 顺丰包邮",
+          "appPriceMin": 119,
+          "goodsPrice": 119,
+          "sellnum": 8215,
+          "imageUrl": "https://uploadjava.bizpower.com/image/27/f8/27f88afcf14ae60561ec1ea250c286ca.jpg"
+        },
+        {
+          "commonId": 274,
+          "goodsName": "全球购阿迪达斯（Adidas） Superstar 休闲时尚运动鞋专柜男",
+          "appPriceMin": 1020,
+          "goodsPrice": 1020,
+          "sellnum": 3953,
+          "imageUrl": "https://uploadjava.bizpower.com/image/25/bf/25bf73fe160b141bc34c635fa9edd9c3.jpg"
+        },
+        {
+          "commonId": 273,
+          "goodsName": "【三只松鼠_夏威夷果185gx3袋】零食坚果特产干果奶油味送开口器 奶油口味 奶油口味",
+          "appPriceMin": 52.9,
+          "goodsPrice": 52.9,
+          "sellnum": 6217,
+          "imageUrl": "https://uploadjava.bizpower.com/image/77/88/77884b64b31b24c86e74e07134e86cfb.jpg"
+        },
+        {
+          "commonId": 272,
+          "goodsName": "纪梵希 givenchy2015 新款小羊皮细管哑光唇膏",
+          "appPriceMin": 329,
+          "goodsPrice": 329,
+          "sellnum": 3174,
+          "imageUrl": "https://uploadjava.bizpower.com/image/b5/5a/b55a3cd4f0d625d89afbb5ab8d65eca5.jpg"
+        },
+        {
+          "commonId": 296,
+          "goodsName": "魔声（Monster）Element 元素 头戴包耳无线蓝牙耳机 触控按键运动耳机",
+          "appPriceMin": 2999,
+          "goodsPrice": 2999,
+          "sellnum": 1223,
+          "imageUrl": "https://uploadjava.bizpower.com/image/fb/69/fb696746e403b44c0b093cecb42250d8.jpg"
+        },
+        {
+          "commonId": 288,
+          "goodsName": "Razer/雷蛇 战神无线游戏耳机MANO’WAR耳麦7.1声道幻彩版",
+          "appPriceMin": 1299,
+          "goodsPrice": 1299,
+          "sellnum": 2471,
+          "imageUrl": "https://uploadjava.bizpower.com/image/0a/b2/0ab21ca1b7f3641887f533eae702bfa8.jpg"
+        },
+        {
+          "commonId": 288,
+          "goodsName": "蔻驰（COACH） 单肩包 皮质手提包斜挎包 女包 大号贝壳包",
+          "appPriceMin": 1580,
+          "goodsPrice": 1580,
+          "sellnum": 823,
+          "imageUrl": "https://uploadjava.bizpower.com/image/58/89/58890299f4a43369e5c1aa0501d3d9c6.jpg"
+        }
+      ]
+    }
+  }
+}
