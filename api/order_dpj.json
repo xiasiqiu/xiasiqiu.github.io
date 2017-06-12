@@ -1,0 +1,48 @@
+{
+  "code": 200,
+  "datas": {
+    "type":0,
+    "skip":0,
+    "limit":8,
+    "orderList":[
+      {
+        "shopName":"阿迪旗舰店",
+        "shopId":155,
+        "status":0,
+        "extra":0,
+        "receiver":"id_184283dlp",
+        "phone":"18532846257",
+        "address":"四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+        "orderNumber":"17273202869058630",
+        "createTime":"2017-04-21  11:50:27",
+        "closeTime":"2天10小时",
+        "goodsList":[
+          {
+            "goodsId":15,
+            "goodsImg":"http://gw.alicdn.com/bao/uploaded/i3/TB1rnN1RFXXXXawaFXXXXXXXXXX_!!0-item_pic.jpg_580x580q50.jpg_.webp",
+            "goodsTxt":"【热销32万顶】骆驼帐篷户外3-4人 自动全双层防雨 你值得拥有",
+            "params":[{
+              "key":"尺寸",
+              "value":"2*2m"
+            }],
+            "actualPrice":399.00,
+            "oldPrice":699.00,
+            "buyCount":1
+          },
+          {
+            "goodsId":15,
+            "goodsImg":"http://gw.alicdn.com/bao/uploaded/i1/TB1q7GvRFXXXXbhXFXXXXXXXXXX_!!0-item_pic.jpg_580x580q50.jpg_.webp",
+            "goodsTxt":"幽马变速越野沙滩雪地车4.0超宽大轮胎山地自行车男女式学生单车",
+            "params":[{
+              "key":"颜色",
+              "value":"黑色"
+            }],
+            "actualPrice":89.00,
+            "oldPrice":99.00,
+            "buyCount":2
+          }
+        ]
+      }
+    ]
+  }
+}

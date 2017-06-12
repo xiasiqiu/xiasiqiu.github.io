@@ -1,0 +1,36 @@
+{
+  "code": 200,
+  "datas": {
+    "type":0,
+    "skip":0,
+    "limit":8,
+    "orderList":[
+      {
+        "shopName":"pelliot户外旗舰店",
+        "shopId":145,
+        "status":2,
+        "extra":10,
+        "receiver":"id_184283dlp",
+        "phone":"18532846257",
+        "address":"四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+        "orderNumber":"17273202869058630",
+        "createTime":"2017-04-21  11:50:27",
+        "closeTime":"2天10小时",
+        "goodsList":[
+          {
+            "goodsId":15,
+            "goodsImg":"//img.alicdn.com/bao/uploaded/i4/TB1HuBZRFXXXXcJXXXXXXXXXXXX_!!0-item_pic.jpg_640x640q50.jpg",
+            "goodsTxt":"法国PELLIOT户外速干裤 男女春夏轻薄透气弹力快干裤登山速干长裤",
+            "params":[{
+              "key":"颜色",
+              "value":"褐色"
+            }],
+            "actualPrice":179.00,
+            "oldPrice":628.00,
+            "buyCount":1
+          }
+        ]
+      }
+    ]
+  }
+}
