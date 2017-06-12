@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "datas": {
+    "totalCount":80,
+    "goodAssess":70,
+    "normalAssess":5,
+    "lowAssess":5,
+    "blueprint":30
+  }
+}
