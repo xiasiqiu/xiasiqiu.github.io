@@ -1,124 +1,171 @@
 {
-  "code": 200,
-  "datas": {
-    "goodsId":154,
-    "goodsType":0,
-    "banner":[
-      {
-        "imgUrl":"http://img.alicdn.com/bao/uploaded/i1/TB1XE_IQXXXXXXqXFXXXXXXXXXX_!!0-item_pic.jpg_640x640q50.jpg",
-        "imgTxt":"梅子熟了 2017夏季新款 文艺抽带背带连衣裙复古纯色中长裙女"
-      },
-      {
-        "imgUrl":"//img.alicdn.com/bao/uploaded/i4/196993935/TB2rE6jdS4mpuFjSZFOXXaUqpXa-196993935.jpg_2200x2200Q50s50.jpg_.webp",
-        "imgTxt":"梅子熟了"
-      }
-    ],
-    "actualPrice":699.00,
-    "oldPrice":599.00,
-    "expressCost":0,
-    "salesVolume":143,
-    "stock":815,
-    "unit":"件",
-    "params":[
-      {
-        "key":"尺码",
-        "value":[
-          "XS","M","L","XL","XXL","XXXL"
+    "code": 200,
+    "datas": {
+        "goodsId": 154,
+        "goodsType": 0,
+        "banner": [
+            {
+                "imgUrl": "http://img.alicdn.com/bao/uploaded/i1/TB1XE_IQXXXXXXqXFXXXXXXXXXX_!!0-item_pic.jpg_640x640q50.jpg",
+                "imgTxt": "梅子熟了 2017夏季新款 文艺抽带背带连衣裙复古纯色中长裙女"
+            },
+            {
+                "imgUrl": "http://img.alicdn.com/bao/uploaded/i4/196993935/TB2rE6jdS4mpuFjSZFOXXaUqpXa-196993935.jpg_2200x2200Q50s50.jpg_.webp",
+                "imgTxt": "梅子熟了"
+            }
+        ],
+        "actualPrice": 699,
+        "oldPrice": 599,
+        "expressCost": 0,
+        "salesVolume": 143,
+        "stock": 815,
+        "unit": "件",
+        "params": [
+            {
+                "key": "尺码",
+                "value": [
+                    "XS",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "XXXL"
+                ]
+            },
+            {
+                "key": "颜色",
+                "value": [
+                    "KO2黄色",
+                    "KO3黄色",
+                    "KO3绿色",
+                    "KO4橙色",
+                    "KO5黑色",
+                    "KO3白色"
+                ]
+            }
+        ],
+        "specParams": [
+            {
+                "spec_id": "商品编号",
+                "value": "11281816996"
+            },
+            {
+                "spec_id": "袖长",
+                "value": "七分袖"
+            },
+            {
+                "spec_id": "腰型",
+                "value": "中腰"
+            },
+            {
+                "spec_id": "群型",
+                "value": "A字群"
+            },
+            {
+                "spec_id": "质地",
+                "value": "聚酯纤维"
+            },
+            {
+                "spec_id": "分类",
+                "value": "连衣裙"
+            },
+            {
+                "spec_id": "价格",
+                "value": "200-299"
+            },
+            {
+                "spec_id": "尺码",
+                "value": "均码"
+            },
+            {
+                "spec_id": "裙长",
+                "value": "中长裙"
+            }
+        ],
+        "comment": {
+            "totalCount": 80,
+            "list": [
+                {
+                    "headImg": "http://img01.sogoucdn.com/app/a/100520093/d27bf6c25ece6d98-219d425a1e25445a-f6e35bb492cb2c14188181cfb5438b30.jpg",
+                    "name": "j***r",
+                    "commentLevel": 5,
+                    "commentContent": "凑合，面料比较软，不太挺阔，凑合",
+                    "commentImg": [
+                        "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                        "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                        "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"
+                    ],
+                    "lookCount": 1540,
+                    "praiseCount": 50,
+                    "time": "2017-6-6",
+                    "params": [
+                        {
+                            "key": "颜色",
+                            "value": "KO2蓝色"
+                        },
+                        {
+                            "key": "尺码",
+                            "value": "L"
+                        }
+                    ],
+                    "commentMore": {
+                        "time": "2017-6-6",
+                        "content": "面料比较软，凑合"
+                    }
+                },
+                {
+                    "headImg": "http://img02.store.sogou.com/app/a/10010016/3f405e100d57e7ed4d380c044bfa48b3",
+                    "name": "东风清风",
+                    "commentLevel": 5,
+                    "commentContent": "打开袋子，果然！被面料深深拍了下来，漫长的等待，但都值得，因为拿到快递的那瞬间，感觉薄如蝉翼，打开袋子，果然！被面料深深",
+                    "commentImg": [],
+                    "lookCount": 150,
+                    "praiseCount": 55,
+                    "time": "2017-6-6",
+                    "params": [
+                        {
+                            "key": "颜色",
+                            "value": "KO2黄色"
+                        },
+                        {
+                            "key": "尺码",
+                            "value": "M"
+                        }
+                    ],
+                    "commentMore": {
+                        "time": "2017-6-6",
+                        "content": "面料比较软，不太挺阔，一般一般"
+                    }
+                }
+            ]
+        },
+        "deliveryAddress": "浙江杭州",
+        "shopServer": [
+            "店铺发货&售后",
+            "货到付款",
+            "七天退货"
+        ],
+        "salesPromotion": [
+            "满2件8折",
+            "满3件7折"
+        ],
+        "shop": {
+            "shopId": 5,
+            "shopLogo": "",
+            "name": "梅子熟了 文艺复古清新女装",
+            "sign": [
+                "",
+                ""
+            ],
+            "goodsScore": 4.7,
+            "serverScore": 4.8,
+            "logisticsScore": 4.9
+        },
+        "goodsDetailImg": [
+            "https://img.alicdn.com/imgextra/i4/196993935/TB24mxhsmBjpuFjy1XdXXaooVXa-196993935.jpg_790x10000Q30.jpg_.webp",
+            "https://img.alicdn.com/imgextra/i1/196993935/TB2.7qnsbtlpuFjSspoXXbcDpXa-196993935.jpg_790x10000Q30.jpg_.webp",
+            "https://img.alicdn.com/imgextra/i2/196993935/TB2h9T1a_AKh1JjSZFDXXbKlFXa-196993935.jpg_790x10000Q30.jpg_.webp",
+            "https://img.alicdn.com/imgextra/i1/196993935/TB2Vmm_vSVmpuFjSZFFXXcZApXa-196993935.jpg_790x10000Q30.jpg_.webp",
+            "https://img.alicdn.com/imgextra/i2/196993935/TB2OuSGe9B0XKJjSZFsXXaxfpXa-196993935.jpg_790x10000Q30.jpg_.webp"
         ]
-      },{
-        "key":"颜色",
-        "value":[
-          "KO2黄色","KO3黄色","KO3绿色","KO4橙色","KO5黑色","KO3白色"
-        ]
-      }
-    ],
-    "specParams":[
-      {"spec_id":"商品编号","value":"11281816996"},
-      {"spec_id":"袖长","value":"七分袖"},
-      {"spec_id":"腰型","value":"中腰"},
-      {"spec_id":"群型","value":"A字群"},
-      {"spec_id":"质地","value":"聚酯纤维"},
-      {"spec_id":"分类","value":"连衣裙"},
-      {"spec_id":"价格","value":"200-299"},
-      {"spec_id":"尺码","value":"均码"},
-      {"spec_id":"裙长","value":"中长裙"}
-    ],
-    "comment":{
-      "totalCount":80,
-      "list":[
-        {
-          "headImg":"http://img01.sogoucdn.com/app/a/100520093/d27bf6c25ece6d98-219d425a1e25445a-f6e35bb492cb2c14188181cfb5438b30.jpg",
-          "name":"j***r",
-          "commentLevel":5,
-          "commentContent":"凑合，面料比较软，不太挺阔，凑合",
-          "commentImg":[
-            "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
-            "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
-            "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"
-          ],
-          "lookCount":1540,
-          "praiseCount":50,
-          "time":"2017-6-6",
-          "params":[
-            {
-              "key":"颜色",
-              "value":"KO2蓝色"
-            },{
-              "key":"尺码",
-              "value":"L"
-            }
-          ],
-          "commentMore":
-            {
-              "time":"2017-6-6",
-              "content":"面料比较软，凑合"
-            }
-          
-        },{
-          "headImg":"http://img02.store.sogou.com/app/a/10010016/3f405e100d57e7ed4d380c044bfa48b3",
-          "name":"东风清风",
-          "commentLevel":5,
-          "commentContent":"打开袋子，果然！被面料深深拍了下来，漫长的等待，但都值得，因为拿到快递的那瞬间，感觉薄如蝉翼，打开袋子，果然！被面料深深",
-          "commentImg":[],
-          "lookCount":150,
-          "praiseCount":55,
-          "time":"2017-6-6",
-          "params":[
-            {
-              "key":"颜色",
-              "value":"KO2黄色"
-            },{
-              "key":"尺码",
-              "value":"M"
-            }
-          ],
-          "commentMore":
-            {
-              "time":"2017-6-6",
-              "content":"面料比较软，不太挺阔，一般一般"
-            }
-          
-        }
-      ]
-    },
-    "deliveryAddress":"浙江杭州",
-    "shopServer":["店铺发货&售后","货到付款","七天退货"],
-    "salesPromotion":["满2件8折","满3件7折"],
-    "shop":{
-      "shopId":5,
-      "shopLogo":"",
-      "name":"梅子熟了 文艺复古清新女装",
-      "sign":["",""],
-      "goodsScore":4.7,
-      "serverScore":4.8,
-      "logisticsScore":4.9
-    },
-    "goodsDetailImg":[
-      "https://img.alicdn.com/imgextra/i4/196993935/TB24mxhsmBjpuFjy1XdXXaooVXa-196993935.jpg_790x10000Q30.jpg_.webp",
-      "https://img.alicdn.com/imgextra/i1/196993935/TB2.7qnsbtlpuFjSspoXXbcDpXa-196993935.jpg_790x10000Q30.jpg_.webp",
-      "https://img.alicdn.com/imgextra/i2/196993935/TB2h9T1a_AKh1JjSZFDXXbKlFXa-196993935.jpg_790x10000Q30.jpg_.webp",
-      "https://img.alicdn.com/imgextra/i1/196993935/TB2Vmm_vSVmpuFjSZFFXXcZApXa-196993935.jpg_790x10000Q30.jpg_.webp",
-      "https://img.alicdn.com/imgextra/i2/196993935/TB2OuSGe9B0XKJjSZFsXXaxfpXa-196993935.jpg_790x10000Q30.jpg_.webp"
-    ]
-  }
+    }
 }
