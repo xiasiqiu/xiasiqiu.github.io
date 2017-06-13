@@ -68,12 +68,12 @@
               "value":"L"
             }
           ],
-          "commentMore":[
+          "commentMore":
             {
               "time":"2017-6-6",
               "content":"面料比较软，凑合"
             }
-          ]
+          
         },{
           "headImg":"http://img02.store.sogou.com/app/a/10010016/3f405e100d57e7ed4d380c044bfa48b3",
           "name":"东风清风",
@@ -92,12 +92,12 @@
               "value":"M"
             }
           ],
-          "commentMore":[
+          "commentMore":
             {
               "time":"2017-6-6",
               "content":"面料比较软，不太挺阔，一般一般"
             }
-          ]
+          
         }
       ]
     },

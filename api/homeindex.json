@@ -176,7 +176,7 @@
           }
         ],
         "itemSort": 5,
-        "itemTypeText": "六列单行图片模块",
+        "itemTypeText": "六图片模块",
         "itemtitleImage": "http://tututo.me/images/img_tab_title1.png",
         "itemtitleCN": "潮流前沿",
         "itemtitleEN": "Tidal front",
@@ -197,7 +197,7 @@
       },
       {
         "itemId": 172,
-        "itemType": "tab",
+        "itemType": "tab2",
         "dataList": [
           {
             "type": "brand",
@@ -213,25 +213,11 @@
             "type": "keyword",
             "data": "手机",
             "imageUrl": "http://tututo.me/images/tab2_3.png"
-          },
-          {
-            "type": "activity",
-            "data": "李宁",
-            "imageUrl": "http://tututo.me/images/tab2_4.png"
-          },
-          {
-            "type": "good",
-            "data": "女包",
-            "imageUrl": "http://tututo.me/images/tab2_5.png"
-          },
-          {
-            "type": "good",
-            "data": "婴儿",
-            "imageUrl": "http://tututo.me/images/tab2_6.png"
           }
+     
         ],
         "itemSort": 8,
-        "itemTypeText": "六列单行图片模块",
+        "itemTypeText": "三图片模块",
         "itemtitleImage": "http://tututo.me/images/img_tab_title2.png",
         "itemtitleCN": "品质生活",
         "itemtitleEN": "Quality life",
