@@ -72,7 +72,7 @@
                 ]
             },
             {
-                "specId": 3,
+                "specId": 4,
                 "specName": "通信商",
                 "specValueList": [
                     {
@@ -282,7 +282,7 @@
                 "goodsId": 563,
                 "commonId": 155,
                 "goodsSpecs": "金色,,,官方标配,,,32G,,,移动",
-                "goodsSpecString": "金色；官方标配；32G",
+                "goodsSpecString": "金色；官方标配；32G；移动",
                 "goodsFullSpecs": "机身颜色：金色；套餐类型：官方标配；存储容量：32G；服务商：移动",
                 "specValueIds": "15,35,44,55",
                 "goodsPrice0": 1799,
