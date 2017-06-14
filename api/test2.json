@@ -1,3 +1,4 @@
+
 {
     "code": 200,
     "datas": {
@@ -410,7 +411,7 @@
             {
                 "goodsId": 566,
                 "commonId": 155,
-                "goodsSpecs": "淡紫色,,,官方标配,,,32G,,,,移动,,,套餐五,,,裸机"
+                "goodsSpecs": "淡紫色,,,官方标配,,,32G,,,,移动",
                 "goodsSpecString": "淡紫色；官方标配；32G；移动",
                 "goodsFullSpecs": "机身颜色：淡紫色；套餐类型：官方标配；存储容量：32G；服务商：移动",
                 "specValueIds": "18,35,44,55",
@@ -438,7 +439,7 @@
                 "promotionTitle": "",
                 "goodsSerial": "",
                 "colorId": 18,
-                "goodsStorage": 10,
+                "goodsStorage": 530,
                 "imageName": "image/f6/6a/f66a567373389baadfc4e0f8f6459009.jpg",
                 "imageSrc": "https://uploadjava.bizpower.com/image/f6/6a/f66a567373389baadfc4e0f8f6459009.jpg",
                 "giftVoList": [],
