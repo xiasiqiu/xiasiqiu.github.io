@@ -136,7 +136,10 @@
                     "name": "东风清风",
                     "commentLevel": 5,
                     "commentContent": "手机非常不错，外观好，速度非常快，玩游戏很流畅～听歌音质效果那是没得讲的 顶尖 电量呢智能手机应该都这样吧1天1充～在电量方面问题问了下客服 贝壳的解答很满意 不错 以后有问题继续咨询 贝壳全5分～！",
-                    "commentImg": ["https://img.alicdn.com/bao/uploaded/i4/1175906058895604630/TB2Jx5wbBU4h1JjSZFLXXaFMpXa_!!0-rate.jpg_400x400.jpg","https://img.alicdn.com/bao/uploaded/i2/1175906059175162317/TB29l1wwm0mpuFjSZPiXXbssVXa_!!0-rate.jpg_400x400.jpg"],
+                    "commentImg": [
+                        "https://img.alicdn.com/bao/uploaded/i4/1175906058895604630/TB2Jx5wbBU4h1JjSZFLXXaFMpXa_!!0-rate.jpg_400x400.jpg",
+                        "https://img.alicdn.com/bao/uploaded/i2/1175906059175162317/TB29l1wwm0mpuFjSZPiXXbssVXa_!!0-rate.jpg_400x400.jpg"
+                    ],
                     "lookCount": 150,
                     "praiseCount": 55,
                     "time": "2017-6-6",
@@ -171,37 +174,79 @@
                     "specId": 0,
                     "specName": "颜色",
                     "attributesItem": [
-                        "玫瑰金",
-                        "金色",
-                        "黑色",
-                        "银色",
-                        "红色特别版"
+                        {
+                            "valueName": "玫瑰金",
+                            "valueImage": "https://img.alicdn.com/bao/uploaded/i1/TB10xy.NXXXXXczXpXX2s5q9XXX_035029.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "valueName": "金色",
+                            "valueImage": "https://img.alicdn.com/bao/uploaded/i7/TB18jWZNXXXXXc5XFXX_T9n9XXX_035017.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "valueName": "黑色",
+                            "valueImage": "https://img.alicdn.com/bao/uploaded/i1/TB1.XWWNXXXXXX8aXXX6ECS9XXX_034952.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "valueName": "银色",
+                            "valueImage": "https://img.alicdn.com/bao/uploaded/i6/TB1kIbeNXXXXXbYXXXXf6el9XXX_035005.jpg_430x430q90.jpg"
+                        },
+                        {
+                            "valueName": "红色特别版",
+                            "valueImage": "https://img.alicdn.com/bao/uploaded/i2/TB1BvrGQXXXXXc.XpXXBUJe.VXX_110840.jpg_430x430q90.jpg"
+                        }
                     ]
                 },
                 {
                     "specId": 1,
                     "specName": "网络类型",
                     "attributesItem": [
-                        "无需合约版"
+                       {
+                            "valueName": "无需合约版",
+                            "valueImage": ""
+                        }
                     ]
                 },
                 {
                     "specId": 2,
                     "specName": "套餐类型",
                     "attributesItem": [
-                        "官方标配",
-                        "套餐一",
-                        "套餐二",
-                        "套餐三"
+                    
+						 {
+                            "valueName": "官方标配",
+                            "valueImage": ""
+                        },
+						 {
+                            "valueName": "套餐一",
+                            "valueImage": ""
+                        },
+						 {
+                            "valueName": "套餐二",
+                            "valueImage": ""
+                        },
+						 {
+                            "valueName": "套餐三",
+                            "valueImage": ""
+                        }
+
                     ]
                 },
                 {
                     "specId": 3,
                     "specName": "储存容量",
                     "attributesItem": [
-                        "32G",
-                        "128G",
-                        "256G"
+                     
+						 {
+                            "valueName": "32G",
+                            "valueImage": ""
+                        },
+						 {
+                            "valueName": "128G",
+                            "valueImage": ""
+                        },
+						 {
+                            "valueName": "256G",
+                            "valueImage": ""
+                        }
                     ]
                 }
             ],
@@ -209,7 +254,6 @@
                 {
                     "goodsID": 1,
                     "stock": 11,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i6/TB1OiqNNXXXXXXiapXXnH2X9XXX_035413.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6500,
                     "goodsSpec": [
@@ -238,7 +282,6 @@
                 {
                     "goodsID": 2,
                     "stock": 12,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i1/TB1EBK7NXXXXXaMXFXXh9e79XXX_035357.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6555,
                     "goodsSpec": [
@@ -267,7 +310,6 @@
                 {
                     "goodsID": 3,
                     "stock": 13,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i7/TB1Xpe_NXXXXXXRXFXXGTq09XXX_035318.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6555,
                     "goodsSpec": [
@@ -296,7 +338,6 @@
                 {
                     "goodsID": 4,
                     "stock": 14,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i5/TB1DKCLNXXXXXaZapXX9U549XXX_035343.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6555,
                     "goodsSpec": [
@@ -325,7 +366,6 @@
                 {
                     "goodsID": 5,
                     "stock": 15,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i5/TB1hmO8QXXXXXXXaFXXRN.1.FXX_111016.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6666,
                     "goodsSpec": [
@@ -354,7 +394,6 @@
                 {
                     "goodsID": 6,
                     "stock": 16,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i6/TB1OiqNNXXXXXXiapXXnH2X9XXX_035413.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6755,
                     "goodsSpec": [
@@ -383,7 +422,6 @@
                 {
                     "goodsID": 7,
                     "stock": 17,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i6/TB1OiqNNXXXXXXiapXXnH2X9XXX_035413.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6855,
                     "goodsSpec": [
@@ -412,7 +450,6 @@
                 {
                     "goodsID": 7,
                     "stock": 17,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i6/TB1OiqNNXXXXXXiapXXnH2X9XXX_035413.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6655,
                     "goodsSpec": [
@@ -441,7 +478,6 @@
                 {
                     "goodsID": 8,
                     "stock": 18,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i6/TB1OiqNNXXXXXXiapXXnH2X9XXX_035413.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6755,
                     "goodsSpec": [
@@ -470,7 +506,6 @@
                 {
                     "goodsID": 9,
                     "stock": 19,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i1/TB1EBK7NXXXXXaMXFXXh9e79XXX_035357.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6555,
                     "goodsSpec": [
@@ -499,7 +534,6 @@
                 {
                     "goodsID": 10,
                     "stock": 20,
-                    "goodsImage": "https://img.alicdn.com/bao/uploaded/i5/TB1hmO8QXXXXXXXaFXXRN.1.FXX_111016.jpg_430x430q90.jpg",
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6555,
                     "goodsSpec": [
@@ -529,7 +563,6 @@
             "defaultGood": {
                 "goodsID": 0,
                 "stock": 50,
-                "goodsImage": "https://img.alicdn.com/bao/uploaded/i3/TB1T86BRpXXXXXdXXXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg",
                 "goodsName": "Apple/苹果 iPhone 7 Plus",
                 "goodsPrice": 6555,
                 "goodsSpec": [
