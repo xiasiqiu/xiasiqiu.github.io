@@ -18,7 +18,7 @@
         "expressCost": 0,
         "salesVolume": 143,
         "stock": 815,
-        "unit": "件",
+        "unit": "台",
         "params": [
             {
                 "key": "颜色",
@@ -200,7 +200,7 @@
                     "specId": 1,
                     "specName": "网络类型",
                     "attributesItem": [
-                       {
+                        {
                             "valueName": "无需合约版",
                             "valueImage": ""
                         }
@@ -210,40 +210,37 @@
                     "specId": 2,
                     "specName": "套餐类型",
                     "attributesItem": [
-                    
-						 {
+                        {
                             "valueName": "官方标配",
                             "valueImage": ""
                         },
-						 {
+                        {
                             "valueName": "套餐一",
                             "valueImage": ""
                         },
-						 {
+                        {
                             "valueName": "套餐二",
                             "valueImage": ""
                         },
-						 {
+                        {
                             "valueName": "套餐三",
                             "valueImage": ""
                         }
-
                     ]
                 },
                 {
                     "specId": 3,
                     "specName": "储存容量",
                     "attributesItem": [
-                     
-						 {
+                        {
                             "valueName": "32G",
                             "valueImage": ""
                         },
-						 {
+                        {
                             "valueName": "128G",
                             "valueImage": ""
                         },
-						 {
+                        {
                             "valueName": "256G",
                             "valueImage": ""
                         }
@@ -256,6 +253,7 @@
                     "stock": 11,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6500,
+                    "specText": "玫瑰金|无需合约版|官方标配|32G",
                     "goodsSpec": [
                         {
                             "specId": 0,
@@ -284,6 +282,7 @@
                     "stock": 12,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6555,
+                    "specText": "金色|无需合约版|官方标配|32G",
                     "goodsSpec": [
                         {
                             "specId": 0,
@@ -312,6 +311,7 @@
                     "stock": 13,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
                     "goodsPrice": 6555,
+                    "specText": "黑色|无需合约版|官方标配|32G",
                     "goodsSpec": [
                         {
                             "specId": 0,
@@ -339,6 +339,7 @@
                     "goodsID": 4,
                     "stock": 14,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "银色|无需合约版|官方标配|32G",
                     "goodsPrice": 6555,
                     "goodsSpec": [
                         {
@@ -367,6 +368,7 @@
                     "goodsID": 5,
                     "stock": 15,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "红色特别版|无需合约版|官方标配|32G",
                     "goodsPrice": 6666,
                     "goodsSpec": [
                         {
@@ -395,6 +397,7 @@
                     "goodsID": 6,
                     "stock": 16,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "玫瑰金|无需合约版|套餐二|32G",
                     "goodsPrice": 6755,
                     "goodsSpec": [
                         {
@@ -423,6 +426,7 @@
                     "goodsID": 7,
                     "stock": 17,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "玫瑰金|无需合约版|套餐三|32G",
                     "goodsPrice": 6855,
                     "goodsSpec": [
                         {
@@ -451,6 +455,7 @@
                     "goodsID": 7,
                     "stock": 17,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "玫瑰金|无需合约版|套餐一|32G",
                     "goodsPrice": 6655,
                     "goodsSpec": [
                         {
@@ -479,6 +484,7 @@
                     "goodsID": 8,
                     "stock": 18,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "金色|无需合约版|套餐二|32G",
                     "goodsPrice": 6755,
                     "goodsSpec": [
                         {
@@ -507,6 +513,7 @@
                     "goodsID": 9,
                     "stock": 19,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "金色|无需合约版|套餐三|32G",
                     "goodsPrice": 6555,
                     "goodsSpec": [
                         {
@@ -535,6 +542,7 @@
                     "goodsID": 10,
                     "stock": 20,
                     "goodsName": "Apple/苹果 iPhone 7 Plus ",
+                    "specText": "红色特别版|无需合约版|官方标配|128G",
                     "goodsPrice": 6555,
                     "goodsSpec": [
                         {
@@ -564,6 +572,7 @@
                 "goodsID": 0,
                 "stock": 50,
                 "goodsName": "Apple/苹果 iPhone 7 Plus",
+                "specText": "红色特别版|无需合约版|官方标配|128G",
                 "goodsPrice": 6555,
                 "goodsSpec": [
                     {
