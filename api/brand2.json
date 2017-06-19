@@ -7,7 +7,7 @@
                 "brandName": "lux-women",
                 "brandInitial": "L",
                 "brandImage": "https://java.bizpower.com/upload/brand/1c57de0ea618ca7f210f35b963099023.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
               
             },
             {
@@ -15,7 +15,7 @@
                 "brandName": "IT-CEO",
                 "brandInitial": "I",
                 "brandImage": "https://java.bizpower.com/upload/brand/2672b17eae8780ede874a7b8ca248530.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
             },
             {
                 "brandId": 2,
@@ -24,7 +24,7 @@
                 "brandInitial": "Z",
                
                 "brandImage": "https://java.bizpower.com/upload/brand/2ca19f736e658dafc28367c9d74f31d3.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
             
             },
             {
@@ -34,7 +34,7 @@
                 "brandInitial": "O",
                
                 "brandImage": "https://java.bizpower.com/upload/brand/2e1ae7afdf9729cc850c36a39e9bf51a.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
               
             },
             {
@@ -44,7 +44,7 @@
                 "brandInitial": "S",
                
                 "brandImage": "https://java.bizpower.com/upload/brand/2e9b345a56375247135b625bf87525af.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
            
             },
             {
@@ -54,7 +54,7 @@
                 "brandInitial": "J",
                
                 "brandImage": "https://java.bizpower.com/upload/brand/43cc2f68125cc1a68d0f29716d61296c.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
             
             },
             {
@@ -64,7 +64,7 @@
                 "brandInitial": "S",
             
                 "brandImage": "https://java.bizpower.com/upload/brand/0b4e0247c4460180ad0c933d85f6d983.jpg",
-                "storeId": 0,
+                "storeId": 0,"showType":1,
                 "brandSort": 0
              
             },
@@ -75,7 +75,7 @@
                 "brandInitial": "Q",
               
                 "brandImage": "https://java.bizpower.com/upload/brand/be3344f3fdb0ed40bc0df97be03815ba.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
              
             },
             {
@@ -85,7 +85,7 @@
                 "brandInitial": "T",
             
                 "brandImage": "https://java.bizpower.com/upload/brand/7915010d3ba36e485064cce1444cac81.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
               
             },
             {
@@ -95,7 +95,7 @@
                 "brandInitial": "F",
             
                 "brandImage": "https://java.bizpower.com/upload/brand/a06f88764e796d6def50576ea0168520.jpg",
-              "storeId": 0
+              "storeId": 0,"showType":1
             },
             {
                 "brandId": 7,
@@ -104,7 +104,7 @@
                 "brandInitial": "B",
                
                 "brandImage": "https://java.bizpower.com/upload/brand/3952c72a1f51c552d8d51f4438afa09e.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
               
             },
             {
@@ -114,7 +114,7 @@
                 "brandInitial": "S",
              
                 "brandImage": "https://java.bizpower.com/upload/brand/ef3feab9e45478c4720e5f3587ee2602.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
              
             },
             {
@@ -124,7 +124,7 @@
                 "brandInitial": "B",
               
                 "brandImage": "https://java.bizpower.com/upload/brand/3f923d228f4b881cee34b92edf86c76e.jpg",
-                 "storeId": 0
+                 "storeId": 0,"showType":1
             },
             {
                 "brandId": 266,
@@ -133,7 +133,7 @@
                 "brandInitial": "R",
             
                 "brandImage": "https://java.bizpower.com/upload/brand/5e95bb74f784d5c970a73986d87ccaf4.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
               
             },
             {
@@ -143,7 +143,7 @@
                 "brandInitial": "A",
            
                 "brandImage": "https://java.bizpower.com/upload/brand/66835db098777aaa832d9d18a0ceb4b2.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
               
             },
             {
@@ -153,7 +153,7 @@
                 "brandInitial": "S",
                 
                 "brandImage": "https://java.bizpower.com/upload/brand/a75a1ab9df0197696b9da24a6f34f2dd.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
              
             },
             {
@@ -163,7 +163,7 @@
                 "brandInitial": "B",
             
                 "brandImage": "https://java.bizpower.com/upload/brand/e614561b07dd54ded2d7a65562d21e7f.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
            
             },
             {
@@ -172,7 +172,7 @@
                 "brandInitial": "T",
           
                 "brandImage": "https://java.bizpower.com/upload/brand/b0b5ea68c0a12a71f9a4ee09b1ebccc2.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
               
             },
             {
@@ -182,7 +182,7 @@
                 "brandInitial": "W",
           
                 "brandImage": "https://java.bizpower.com/upload/brand/d2f53baa72ccb23440c4ca79b4b3d607.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
              
             },
             {
@@ -192,7 +192,7 @@
                 "brandInitial": "S",
              
                 "brandImage": "https://java.bizpower.com/upload/brand/946b78ef8b1d9f1f15e6e8b1fef72022.jpg",
-                "storeId": 0
+                "storeId": 0,"showType":1
            
             }
         ],
