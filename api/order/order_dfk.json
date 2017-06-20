@@ -33,5 +33,6 @@
         "pages": 11,
         "skip": 1,
         "limit": 10
+		"type":0,
     }
 }
