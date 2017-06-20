@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "orderData": {
+        "orderList": [
+            {
+                "orderStatus": 1,
+                "orderID": 1231277787,
+                "createTime": "2017-01-11 10:20",
+                "storeName": "midiplus旗舰店",
+                "storeId": 2223,
+                "orderPrice": 2200,
+                "orderExtra": 10,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 223,
+                        "goodName": "MIDIPLUS X8/X6 PRO 升级版MIDI键盘88 61键 带音源钢琴练习键盘",
+                        "goodNum": 1,
+                        "goodSpecText": "X6 pro",
+                        "goodPrice": 2200,
+                        "goodOldPrice": 2500,
+                        "goodImg": "https://img.alicdn.com/bao/uploaded/i1/TB1.CBQRVXXXXbmXXXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            }
+        ],
+        "pages": 11,
+        "skip": 1,
+        "limit": 10
+    }
+}

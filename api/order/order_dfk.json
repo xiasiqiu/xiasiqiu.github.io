@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "orderData": {
+        "orderList": [
+            {
+                "orderStatus": 0,
+                "orderID": 1231277787,
+                "createTime": "2017-01-18 17:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 115,
+                "orderExtra": 10,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 2017夏新款 复古一字领露肩吊带连衣裙文艺碎花雪纺裙女",
+                        "goodNum": 1,
+                        "goodSpecText": "S，浅紫色",
+                        "goodPrice": 105,
+                        "goodOldPrice": 165,
+                        "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB25o7KrCxjpuFjSszeXXaeMVXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            }
+        ],
+        "pages": 11,
+        "skip": 1,
+        "limit": 10
+    }
+}

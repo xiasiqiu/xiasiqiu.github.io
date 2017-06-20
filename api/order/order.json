@@ -1,0 +1,164 @@
+{
+    "code": 200,
+    "orderData": {
+        "orderList": [
+            {
+                "orderStatus": 2,
+                "orderID": 1231277787,
+                "createTime": "2017-01-16 17:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 320,
+                "orderExtra": 0,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 文艺森系雪纺吊带裙 复古碎花高腰连衣裙女 2017夏新款",
+                        "goodNum": 1,
+                        "goodSpecText": "S，白色",
+                        "goodPrice": 135,
+                        "goodOldPrice": 158,
+                        "goodImg": "https://gd3.alicdn.com/imgextra/i1/50454948/TB23mIptwJlpuFjSspjXXcT.pXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    },
+                    {
+                        "goodId": 133,
+                        "goodName": "梅子熟了 复古森系拼接吊带背心 文艺宽松印花上衣女 2017夏新款",
+                        "goodNum": 1,
+                        "goodSpecText": "S，奶咖色",
+                        "goodPrice": 88,
+                        "goodOldPrice": 102,
+                        "goodImg": "https://gd3.alicdn.com/imgextra/i3/50454948/TB2mHbwtB0kpuFjSsziXXa.oVXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            },
+            {
+                "orderStatus": 0,
+                "orderID": 1231277787,
+                "createTime": "2017-01-18 17:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 115,
+                "orderExtra": 10,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 2017夏新款 复古一字领露肩吊带连衣裙文艺碎花雪纺裙女",
+                        "goodNum": 1,
+                        "goodSpecText": "S，浅紫色",
+                        "goodPrice": 105,
+                        "goodOldPrice": 165,
+                        "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB25o7KrCxjpuFjSszeXXaeMVXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            },
+            {
+                "orderStatus": 3,
+                "orderID": 1231277787,
+                "createTime": "2017-01-17 14:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 70,
+                "orderExtra": 10,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 2017夏装新款 文艺白色棉质短袖T恤 复古清新印花上衣女",
+                        "goodNum": 1,
+                        "goodSpecText": "S，白色",
+                        "goodPrice": 60,
+                        "goodOldPrice": 75,
+                        "goodImg": "https://gd3.alicdn.com/imgextra/i1/50454948/TB2X.Qkrw0kpuFjSspdXXX4YXXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            },
+            {
+                "orderStatus": 4,
+                "orderID": 1231277787,
+                "createTime": "2017-01-17 14:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 60,
+                "orderExtra": 0,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 2017夏装新款 文艺清新棉质短裤 复古针织棉休闲裤子女",
+                        "goodNum": 1,
+                        "goodSpecText": "S，粉色",
+                        "goodPrice": 55,
+                        "goodOldPrice": 75,
+                        "goodImg": "https://gd3.alicdn.com/imgextra/i1/50454948/TB2X.Qkrw0kpuFjSspdXXX4YXXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            },
+            {
+                "orderStatus": 5,
+                "orderID": 1231277787,
+                "createTime": "2017-01-17 14:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 60,
+                "orderExtra": 0,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 2017夏新款 复古文艺民族风短袖T恤 森系白色短款上衣女",
+                        "goodNum": 1,
+                        "goodSpecText": "均码，白色",
+                        "goodPrice": 75,
+                        "goodOldPrice": 80,
+                        "goodImg": "https://gd2.alicdn.com/imgextra/i1/50454948/TB2ZCH4qM0kpuFjSspdXXX4YXXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            },
+            {
+                "orderStatus": 1,
+                "orderID": 1231277787,
+                "createTime": "2017-01-11 10:20",
+                "storeName": "midiplus旗舰店",
+                "storeId": 2223,
+                "orderPrice": 2200,
+                "orderExtra": 10,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 223,
+                        "goodName": "MIDIPLUS X8/X6 PRO 升级版MIDI键盘88 61键 带音源钢琴练习键盘",
+                        "goodNum": 1,
+                        "goodSpecText": "X6 pro",
+                        "goodPrice": 2200,
+                        "goodOldPrice": 2500,
+                        "goodImg": "https://img.alicdn.com/bao/uploaded/i1/TB1.CBQRVXXXXbmXXXXXXXXXXXX_!!0-item_pic.jpg_430x430q90.jpg",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            }
+        ],
+        "pages": 11,
+        "skip": 1,
+        "limit": 10
+    }
+}

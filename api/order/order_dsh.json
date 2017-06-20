@@ -1,0 +1,44 @@
+{
+    "code": 200,
+    "orderData": {
+        "orderList": [
+            {
+                "orderStatus": 2,
+                "orderID": 1231277787,
+                "createTime": "2017-01-16 17:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 320,
+                "orderExtra": 0,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 文艺森系雪纺吊带裙 复古碎花高腰连衣裙女 2017夏新款",
+                        "goodNum": 1,
+                        "goodSpecText": "S，白色",
+                        "goodPrice": 135,
+                        "goodOldPrice": 158,
+                        "goodImg": "https://gd3.alicdn.com/imgextra/i1/50454948/TB23mIptwJlpuFjSspjXXcT.pXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    },
+                    {
+                        "goodId": 133,
+                        "goodName": "梅子熟了 复古森系拼接吊带背心 文艺宽松印花上衣女 2017夏新款",
+                        "goodNum": 1,
+                        "goodSpecText": "S，奶咖色",
+                        "goodPrice": 88,
+                        "goodOldPrice": 102,
+                        "goodImg": "https://gd3.alicdn.com/imgextra/i3/50454948/TB2mHbwtB0kpuFjSsziXXa.oVXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            }
+        ],
+        "pages": 11,
+        "skip": 1,
+        "limit": 10
+    }
+}

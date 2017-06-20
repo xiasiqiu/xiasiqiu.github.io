@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "orderData": {
+        "orderList": [
+            {
+                "orderStatus": 3,
+                "orderID": 1231277787,
+                "createTime": "2017-01-17 14:20",
+                "storeName": "梅子熟了 文艺复古清新女装",
+                "storeId": 2223,
+                "orderPrice": 70,
+                "orderExtra": 10,
+                "address": "四川省 成都市 武侯区 石羊场街道 和盛西街南城都汇5A期汇朗园",
+                "receiver": "id_184283dlp",
+                "phoneNum": 18532846257,
+                "goodsList": [
+                    {
+                        "goodId": 123,
+                        "goodName": "梅子熟了 2017夏装新款 文艺白色棉质短袖T恤 复古清新印花上衣女",
+                        "goodNum": 1,
+                        "goodSpecText": "S，白色",
+                        "goodPrice": 60,
+                        "goodOldPrice": 75,
+                        "goodImg": "https://gd3.alicdn.com/imgextra/i1/50454948/TB2X.Qkrw0kpuFjSspdXXX4YXXa_!!50454948.jpg_400x400.jpg_.webp",
+                        "goodServiceStatus": 0
+                    }
+                ]
+            }
+        ],
+        "pages": 11,
+        "skip": 1,
+        "limit": 10
+    }
+}
