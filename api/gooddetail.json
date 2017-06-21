@@ -98,6 +98,10 @@
         ],
         "comment": {
             "totalCount": 80,
+            "goodAssess": 70,
+            "normalAssess": 8,
+            "lowAssess": 2,
+            "blueprint": 60,
             "list": [
                 {
                     "headImg": "http://img01.sogoucdn.com/app/a/100520093/d27bf6c25ece6d98-219d425a1e25445a-f6e35bb492cb2c14188181cfb5438b30.jpg",
