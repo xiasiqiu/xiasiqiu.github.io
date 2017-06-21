@@ -12,7 +12,7 @@
                 "imgUrl": "http://gw.alicdn.com/imgextra/i3/50454948/TB2Scoztq8lpuFjy0FpXXaGrpXa_!!50454948.jpg_970x970q50s150.jpg_.webp",
                 "imgTxt": "梅子熟了 文艺森系雪纺吊带裙 复古碎花高腰连衣裙女 2017夏新款"
             },
-			{
+            {
                 "imgUrl": "http://gw.alicdn.com/imgextra/i1/50454948/TB2EDP.tuJ8puFjy1XbXXagqVXa_!!50454948.jpg_970x970q50s150.jpg_.webp",
                 "imgTxt": "梅子熟了 文艺森系雪纺吊带裙 复古碎花高腰连衣裙女 2017夏新款"
             }
@@ -132,7 +132,8 @@
                     ],
                     "commentMore": {
                         "time": "",
-                        "content": ""
+                        "content": "",
+                        "imgList": []
                     }
                 },
                 {
@@ -167,7 +168,10 @@
                     ],
                     "commentMore": {
                         "time": "2",
-                        "content": "手机的还行"
+                        "content": "手机的还行",
+                        "imgList": [
+                            "https://img.alicdn.com/imgextra/i4/0/TB2DnquubFkpuFjy1XcXXclapXa_!!0-rate.jpg_400x400.jpg"
+                        ]
                     }
                 }
             ]
