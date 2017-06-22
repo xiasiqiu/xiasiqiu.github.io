@@ -1,0 +1,125 @@
+{
+    "code": 200,
+    "datas": {
+        "type": 4,
+        "skip": 0,
+        "limit": 8,
+        "list": [
+            {
+                "headImg": "http://img01.sogoucdn.com/app/a/100520093/d27bf6c25ece6d98-219d425a1e25445a-f6e35bb492cb2c14188181cfb5438b30.jpg",
+                "name": "j***r",
+                "commentLevel": 4,
+                "commentContent": "凑合，面料比较软，不太挺阔，凑合",
+                "commentImg": [
+                    "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                    "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                    "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"
+                ],
+                "lookCount": 1540,
+                "praiseCount": 50,
+                "time": "2017-6-6",
+                "params": [
+                    {
+                        "key": "颜色",
+                        "value": "KO2蓝色"
+                    },
+                    {
+                        "key": "尺码",
+                        "value": "L"
+                    }
+                ],
+                "commentMore": {
+                    "time": "1",
+                    "content": "好像没啥问题",
+                    "imgList": []
+                }
+            },
+            {
+                "headImg": "http://img02.store.sogou.com/app/a/10010016/3f405e100d57e7ed4d380c044bfa48b3",
+                "name": "东风清风",
+                "commentLevel": 5,
+                "commentContent": "打开袋子，果然！被面料深深拍了下来，漫长的等待，但都值得，因为拿到快递的那瞬间，感觉薄如蝉翼，打开袋子，果然！被面料深深",
+                "commentImg": [ "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                    "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                    "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"],
+                "lookCount": 150,
+                "praiseCount": 55,
+                "time": "2017-6-6",
+                "params": [
+                    {
+                        "key": "颜色",
+                        "value": "KO2黄色"
+                    },
+                    {
+                        "key": "尺码",
+                        "value": "M"
+                    }
+                ],
+                "commentMore": {
+                    "time": "",
+                    "content": "",
+                    "imgList": []
+                }
+            },
+            {
+                "headImg": "http://img02.store.sogou.com/app/a/10010016/3f405e100d57e7ed4d380c044bfa48b3",
+                "name": "蝉翼",
+                "commentLevel": 1,
+                "commentContent": "打开袋子，果然！被面料深深拍了下来，感觉薄如蝉翼，打开袋子，果然！被面料深深",
+                "commentImg": [ "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                    "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                    "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"],
+                "lookCount": 880,
+                "praiseCount": 660,
+                "time": "2017-6-6",
+                "params": [
+                    {
+                        "key": "颜色",
+                        "value": "KO2黄色"
+                    },
+                    {
+                        "key": "尺码",
+                        "value": "M"
+                    }
+                ],
+                "commentMore": {
+                    "time": "3",
+                    "content": "穿了几天发现有问题",
+                    "imgList": [
+                        "https://img.alicdn.com/imgextra/i3/0/TB23EUIxUdnpuFjSZPhXXbChpXa_!!0-rate.jpg_400x400.jpg",
+                        "https://img.alicdn.com/imgextra/i3/0/TB2eCMWxOpnpuFjSZFkXXc4ZpXa_!!0-rate.jpg_400x400.jpg"
+                    ]
+                }
+            },
+            {
+                "headImg": "http://img1.touxiang.cn/uploads/20120509/09-014623_68.jpg",
+                "name": "清风",
+                "commentLevel": 1,
+                "commentContent": "打开袋子，因为拿到快递的那瞬间，果然！",
+                "commentImg": [
+                    "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                    "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                    "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"
+                ],
+                "lookCount": 1500,
+                "praiseCount": 550,
+                "time": "2017-6-6",
+                "params": [
+                    {
+                        "key": "颜色",
+                        "value": "KO2白色"
+                    },
+                    {
+                        "key": "尺码",
+                        "value": "XL"
+                    }
+                ],
+                "commentMore": {
+                    "time": "",
+                    "content": "",
+                    "imgList": []
+                }
+            }
+        ]
+    }
+}
