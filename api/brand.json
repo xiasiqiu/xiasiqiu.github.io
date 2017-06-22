@@ -1,1108 +1,502 @@
 {
-  "code": 200,
-  "datas": {
-    "AdList": [
-      {
-        "brandId": 256,
-        "brandName": "lux-women",
-        "brandEnglish": "lux-women",
-        "brandInitial": "L",
-        "brandImage": "brand/1c57de0ea618ca7f210f35b963099023.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/1c57de0ea618ca7f210f35b963099023.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 257,
-        "brandName": "IT-CEO",
-        "brandEnglish": "",
-        "brandInitial": "I",
-        "brandImage": "brand/2672b17eae8780ede874a7b8ca248530.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/2672b17eae8780ede874a7b8ca248530.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 2,
-        "brandName": "中国联通",
-        "brandEnglish": "china unicom",
-        "brandInitial": "Z",
-        "brandImage": "brand/2ca19f736e658dafc28367c9d74f31d3.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/2ca19f736e658dafc28367c9d74f31d3.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 258,
-        "brandName": "ooh Dear",
-        "brandEnglish": "ooh Dear",
-        "brandInitial": "O",
-        "brandImage": "brand/2e1ae7afdf9729cc850c36a39e9bf51a.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/2e1ae7afdf9729cc850c36a39e9bf51a.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 259,
-        "brandName": "山泽",
-        "brandEnglish": "",
-        "brandInitial": "S",
-        "brandImage": "brand/2e9b345a56375247135b625bf87525af.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/2e9b345a56375247135b625bf87525af.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 4,
-        "brandName": "娇兰",
-        "brandEnglish": "",
-        "brandInitial": "J",
-        "brandImage": "brand/43cc2f68125cc1a68d0f29716d61296c.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/43cc2f68125cc1a68d0f29716d61296c.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 260,
-        "brandName": "松下",
-        "brandEnglish": "",
-        "brandInitial": "S",
-        "brandImage": "brand/0b4e0247c4460180ad0c933d85f6d983.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/0b4e0247c4460180ad0c933d85f6d983.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 5,
-        "brandName": "倩碧",
-        "brandEnglish": "",
-        "brandInitial": "Q",
-        "brandImage": "brand/be3344f3fdb0ed40bc0df97be03815ba.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/be3344f3fdb0ed40bc0df97be03815ba.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 261,
-        "brandName": "TPOS",
-        "brandEnglish": "",
-        "brandInitial": "T",
-        "brandImage": "brand/7915010d3ba36e485064cce1444cac81.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/7915010d3ba36e485064cce1444cac81.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 262,
-        "brandName": "富勒",
-        "brandEnglish": "",
-        "brandInitial": "F",
-        "brandImage": "brand/a06f88764e796d6def50576ea0168520.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/a06f88764e796d6def50576ea0168520.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 7,
-        "brandName": "benefit",
-        "brandEnglish": "",
-        "brandInitial": "B",
-        "brandImage": "brand/3952c72a1f51c552d8d51f4438afa09e.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/3952c72a1f51c552d8d51f4438afa09e.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 9,
-        "brandName": "SISLEY",
-        "brandEnglish": "",
-        "brandInitial": "S",
-        "brandImage": "brand/ef3feab9e45478c4720e5f3587ee2602.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/ef3feab9e45478c4720e5f3587ee2602.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 265,
-        "brandName": "北通",
-        "brandEnglish": "",
-        "brandInitial": "B",
-        "brandImage": "brand/3f923d228f4b881cee34b92edf86c76e.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/3f923d228f4b881cee34b92edf86c76e.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 266,
-        "brandName": "romoss",
-        "brandEnglish": "",
-        "brandInitial": "R",
-        "brandImage": "brand/5e95bb74f784d5c970a73986d87ccaf4.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/5e95bb74f784d5c970a73986d87ccaf4.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 11,
-        "brandName": "爱丽",
-        "brandEnglish": "",
-        "brandInitial": "A",
-        "brandImage": "brand/66835db098777aaa832d9d18a0ceb4b2.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/66835db098777aaa832d9d18a0ceb4b2.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 267,
-        "brandName": "索爱",
-        "brandEnglish": "",
-        "brandInitial": "S",
-        "brandImage": "brand/a75a1ab9df0197696b9da24a6f34f2dd.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/a75a1ab9df0197696b9da24a6f34f2dd.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 12,
-        "brandName": "BOBBI BROWN",
-        "brandEnglish": "",
-        "brandInitial": "B",
-        "brandImage": "brand/e614561b07dd54ded2d7a65562d21e7f.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/e614561b07dd54ded2d7a65562d21e7f.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 268,
-        "brandName": "台电",
-        "brandEnglish": "",
-        "brandInitial": "T",
-        "brandImage": "brand/b0b5ea68c0a12a71f9a4ee09b1ebccc2.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/b0b5ea68c0a12a71f9a4ee09b1ebccc2.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 269,
-        "brandName": "网件",
-        "brandEnglish": "",
-        "brandInitial": "W",
-        "brandImage": "brand/d2f53baa72ccb23440c4ca79b4b3d607.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/d2f53baa72ccb23440c4ca79b4b3d607.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      },
-      {
-        "brandId": 14,
-        "brandName": "SK-ll",
-        "brandEnglish": "",
-        "brandInitial": "S",
-        "brandImage": "brand/946b78ef8b1d9f1f15e6e8b1fef72022.jpg",
-        "brandImageSrc": "https://java.bizpower.com/upload/brand/946b78ef8b1d9f1f15e6e8b1fef72022.jpg",
-        "storeId": 0,
-        "brandSort": 0,
-        "isRecommend": 1,
-        "applyState": 1,
-        "showType": 1
-      }
-    ],
-    "BrandList": [
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
+    "code": 200,
+    "datas": {
+        "AdList": [
+            {
+                "brandId": 256,
+                "brandName": "lux-women",
+                "brandImage": "https://java.bizpower.com/upload/brand/1c57de0ea618ca7f210f35b963099023.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 257,
+                "brandName": "IT-CEO",
+                "brandImage": "https://java.bizpower.com/upload/brand/2672b17eae8780ede874a7b8ca248530.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 2,
+                "brandName": "中国联通",
+                "brandImage": "https://java.bizpower.com/upload/brand/2ca19f736e658dafc28367c9d74f31d3.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 258,
+                "brandName": "ooh Dear",
+                "brandImage": "https://java.bizpower.com/upload/brand/2e1ae7afdf9729cc850c36a39e9bf51a.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 259,
+                "brandName": "山泽",
+                "brandImage": "https://java.bizpower.com/upload/brand/2e9b345a56375247135b625bf87525af.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 4,
+                "brandName": "娇兰",
+                "brandImage": "https://java.bizpower.com/upload/brand/43cc2f68125cc1a68d0f29716d61296c.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 260,
+                "brandName": "松下",
+                "brandImage": "https://java.bizpower.com/upload/brand/0b4e0247c4460180ad0c933d85f6d983.jpg",
+                "storeId": 0,
+                "brandSort": 0
+            },
+            {
+                "brandId": 5,
+                "brandName": "倩碧",
+                "brandImage": "https://java.bizpower.com/upload/brand/be3344f3fdb0ed40bc0df97be03815ba.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 261,
+                "brandName": "TPOS",
+                "brandImage": "https://java.bizpower.com/upload/brand/7915010d3ba36e485064cce1444cac81.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 262,
+                "brandName": "富勒",
+                "brandImage": "https://java.bizpower.com/upload/brand/a06f88764e796d6def50576ea0168520.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 7,
+                "brandName": "benefit",
+                "brandImage": "https://java.bizpower.com/upload/brand/3952c72a1f51c552d8d51f4438afa09e.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 9,
+                "brandName": "SISLEY",
+                "brandImage": "https://java.bizpower.com/upload/brand/ef3feab9e45478c4720e5f3587ee2602.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 265,
+                "brandName": "北通",
+                "brandImage": "https://java.bizpower.com/upload/brand/3f923d228f4b881cee34b92edf86c76e.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 266,
+                "brandName": "romoss",
+                "brandImage": "https://java.bizpower.com/upload/brand/5e95bb74f784d5c970a73986d87ccaf4.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 11,
+                "brandName": "爱丽",
+                "brandImage": "https://java.bizpower.com/upload/brand/66835db098777aaa832d9d18a0ceb4b2.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 267,
+                "brandName": "索爱",
+                "brandImage": "https://java.bizpower.com/upload/brand/a75a1ab9df0197696b9da24a6f34f2dd.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 12,
+                "brandName": "BOBBI BROWN",
+                "brandImage": "https://java.bizpower.com/upload/brand/e614561b07dd54ded2d7a65562d21e7f.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 268,
+                "brandName": "台电",
+                "brandImage": "https://java.bizpower.com/upload/brand/b0b5ea68c0a12a71f9a4ee09b1ebccc2.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 269,
+                "brandName": "网件",
+                "brandImage": "https://java.bizpower.com/upload/brand/d2f53baa72ccb23440c4ca79b4b3d607.jpg",
+                "storeId": 0
+            },
+            {
+                "brandId": 14,
+                "brandName": "SK-ll",
+                "brandImage": "https://java.bizpower.com/upload/brand/946b78ef8b1d9f1f15e6e8b1fef72022.jpg",
+                "storeId": 0
+            }
         ],
-        "brandSord": 0,
-        "brandInitial": "A"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "B"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "C"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "D"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "E"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "F"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "G"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "H"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "D"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "I"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "J"
-      }, {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "K"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "L"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "M"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "N"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "O"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "P"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "Q"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "R"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "S"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "T"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "U"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "V"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "W"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "X"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "W"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "Y"
-      },
-      {
-        "List": [
-          {
-            "brandId": 123,
-            "brandName": "apple",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 333,
-            "brandName": "aipusheng",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": 444,
-            "brandName": "avd",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          },
-          {
-            "brandId": "value",
-            "brandName": "are",
-            "storeId": "1111",
-            "brandImage": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1497611913061&di=e230066dcc043d48bfa4c1f903deaf38&imgtype=0&src=http%3A%2F%2Fcdn1.92dp.com%2FProImgFile%2F2016%2F03%2F25%2F635945075926146185.jpg"
-          }
-        ],
-        "brandSord": 0,
-        "brandInitial": "Z"
-      }
-    ]
-  }
+        "BrandList": [
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "爱丽",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/66835db098777aaa832d9d18a0ceb4b2.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "爱普生",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/21e7010950d77aa7abf18fe567e6a8de.jpg"
+                    }
+                ],
+                "brandSord": 1,
+                "brandInitial": "A"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "benefit",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/3952c72a1f51c552d8d51f4438afa09e.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "北通",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/3f923d228f4b881cee34b92edf86c76e.jpg"
+                    },
+                    {
+                        "brandId": 444,
+                        "brandName": "BOBBI BROWN",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/e614561b07dd54ded2d7a65562d21e7f.jpg"
+                    },
+                    {
+                        "brandId": 423,
+                        "brandName": "佰科",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/b21f203303a3fe5384fe0aaf9a1e1ebf.jpg"
+                    },
+                    {
+                        "brandId": 423,
+                        "brandName": "博朗",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/13076de0b2119e34f368f49bd3f2fc06.gif"
+                    }
+                ],
+                "brandSord": 2,
+                "brandInitial": "B"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "富勒",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/a06f88764e796d6def50576ea0168520.jpg"
+                    },
+                    {
+                        "brandId": 444,
+                        "brandName": "飞利浦",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/a779176305c00b89f18c2a9253dab2fb.jpg"
+                    }
+                ],
+                "brandSord": 6,
+                "brandInitial": "F"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "高丝洁",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/04dc7c25ffda2b25cb331871a85ecd2d.jpg"
+                    }
+                ],
+                "brandSord": 7,
+                "brandInitial": "G"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "hyundri",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/d955c023662464d5412f542ead903c63.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "惠普",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/697f0fdca21cd15464d3521fb020a614.jpg"
+                    },
+                    {
+                        "brandId": 444,
+                        "brandName": "好丽友",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/fed17d067f61a5c9757c0fa0aa581832.jpg"
+                    }
+                ],
+                "brandSord": 8,
+                "brandInitial": "H"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "IT-CEO",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/2672b17eae8780ede874a7b8ca248530.jpg"
+                    }
+                ],
+                "brandSord": 9,
+                "brandInitial": "I"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "娇兰",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/43cc2f68125cc1a68d0f29716d61296c.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "佳洁士",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/fe3efc51116f54cbb70f8e73dfe9998a.jpg"
+                    }
+                ],
+                "brandSord": 10,
+                "brandInitial": "J"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "口水娃",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/ae79ee7e84bcae971e9c2b341cf30c96.jpg"
+                    }
+                ],
+                "brandSord": 11,
+                "brandInitial": "K"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "lux-women",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/1c57de0ea618ca7f210f35b963099023.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "雷柏",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/4a41f64fa2df39307de082a4595c3695.jpg"
+                    }
+                ],
+                "brandSord": 12,
+                "brandInitial": "L"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "MISS FACE",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/066c6451ba148929ade57834e94ac20a.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "迈乐",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/035d3819f2162b461deba350a712e472.jpg"
+                    }
+                ],
+                "brandSord": 13,
+                "brandInitial": "M"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "妮维雅",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/9a4e74103020f24a4f5ebbaf498b2e87.jpg"
+                    }
+                ],
+                "brandSord": 14,
+                "brandInitial": "N"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "ooh Dear",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/2e1ae7afdf9729cc850c36a39e9bf51a.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "欧姆龙",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/3a8743a776b79062acbd1e9256cd52f8.gif"
+                    }
+                ],
+                "brandSord": 15,
+                "brandInitial": "O"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "倩碧",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/be3344f3fdb0ed40bc0df97be03815ba.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "亲亲",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/4f071872c6c67329fa4766865550ff98.jpg"
+                    }
+                ],
+                "brandSord": 17,
+                "brandInitial": "Q"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "romoss",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/5e95bb74f784d5c970a73986d87ccaf4.jpg"
+                    }
+                ],
+                "brandSord": 18,
+                "brandInitial": "R"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "索爱",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/a75a1ab9df0197696b9da24a6f34f2dd.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "山泽",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/2e9b345a56375247135b625bf87525af.jpg"
+                    },
+                    {
+                        "brandId": 444,
+                        "brandName": "松下",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/0b4e0247c4460180ad0c933d85f6d983.jpg"
+                    },
+                    {
+                        "brandId": 4444,
+                        "brandName": "SISLEY",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/ef3feab9e45478c4720e5f3587ee2602.jpg"
+                    },
+                    {
+                        "brandId": 4444,
+                        "brandName": "SK-ll",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/946b78ef8b1d9f1f15e6e8b1fef72022.jpg"
+                    },
+                    {
+                        "brandId": 4444,
+                        "brandName": "三木",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/f14871ea9347922d36294f5b3bc6a606.jpg"
+                    }
+                ],
+                "brandSord": 19,
+                "brandInitial": "S"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "TPOS",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/7915010d3ba36e485064cce1444cac81.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "台电",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/b0b5ea68c0a12a71f9a4ee09b1ebccc2.jpg"
+                    },
+                    {
+                        "brandId": 444,
+                        "brandName": "天堂伞",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/dd58ea6faf13d8f60ccbeacff03241fa.jpg"
+                    },
+                    {
+                        "brandId": 1111,
+                        "brandName": "TCL",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/8a4b9506fe0f7d77103324a0be746286.jpg"
+                    }
+                ],
+                "brandSord": 20,
+                "brandInitial": "T"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "网件",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/d2f53baa72ccb23440c4ca79b4b3d607.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "旺旺",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/8b240ba180304135ce3c09919cbd406c.jpg"
+                    }
+                ],
+                "brandSord": 23,
+                "brandInitial": "W"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 123,
+                        "brandName": "忆捷",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/3405a4da49145c1e2769215406a394b4.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "雅顿",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/cc41982f5337adc07c5178465afe7c2d.jpg"
+                    }
+                ],
+                "brandSord": 25,
+                "brandInitial": "Y"
+            },
+            {
+                "List": [
+                    {
+                        "brandId": 2,
+                        "brandName": "中国联通",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/2ca19f736e658dafc28367c9d74f31d3.jpg"
+                    },
+                    {
+                        "brandId": 333,
+                        "brandName": "资生堂",
+                        "storeId": 1111,
+                        "brandImage": "https://java.bizpower.com/upload/brand/0b7ce98c3d1191c160edc9cb1cdf194c.jpg"
+                    }
+                ],
+                "brandSord": 26,
+                "brandInitial": "Z"
+            }
+        ]
+    }
 }
