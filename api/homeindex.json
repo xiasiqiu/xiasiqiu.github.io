@@ -38,27 +38,27 @@
                 "dataList": [
                     {
                         "type": "notice",
-                        "data": "12315",
+                        "data": "12月12日零时进行系统维护，届时将关闭系统，请所有商家及会员做好准备！",
                         "text": "系统通知",
-                        "imageUrl": "12月12日零时进行系统维护，届时将关闭系统，请所有商家及会员做好准备！"
+                        "imageUrl": ""
                     },
                     {
                         "type": "exchange",
-                        "data": "12315",
+                        "data": "积分兑换了I8大礼包一份",
                         "text": "李***四",
-                        "imageUrl": "积分兑换了I8大礼包一份"
+                        "imageUrl": ""
                     },
                     {
                         "type": "news",
-                        "data": "12315",
+                        "data": "今日推出线下活动，双流区代理商优惠多多！",
                         "text": "新闻公告",
-                        "imageUrl": "今日推出线下活动，双流区代理商优惠多多！"
+                        "imageUrl": "！"
                     },
                     {
                         "type": "exchange",
-                        "data": "12315",
+                        "data": "积分兑换了加油卡三年套餐返现礼包一份！",
                         "text": "王***五",
-                        "imageUrl": "积分兑换了加油卡三年套餐返现礼包一份"
+                        "imageUrl": ""
                     }
                 ],
                 "itemSort": 1,
