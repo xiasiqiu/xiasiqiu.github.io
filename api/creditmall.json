@@ -18,6 +18,20 @@
         "imageUrl": "https://imgqn2.fruitday.com/images/2017-05-07/6314f8e67de76b26bd528297db56f8e7.jpg"
       }
     ],
+    "nav":[
+      {
+        "navName":"商铺代金券",
+        "imgSrc":""
+      },
+      {
+        "navName":"积分兑换礼品",
+        "imgSrc":""
+      },
+      {
+        "navName":"商品红包",
+        "imgSrc":""
+      }
+    ],
     "mallFloors":[
       {
         "floorTitle":"积分兑换代金券",
