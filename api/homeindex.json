@@ -74,19 +74,19 @@
                 "dataList": [
                     {
                         "type": "native",
-                        "data": "brand",
+                        "data": "品牌店铺",
                         "text": "品牌店铺",
                         "imageUrl": "http://tututo.me/images/home_menu5.png"
                     },
                     {
                         "type": "html",
-                        "data": "https://618.tmall.com/?spm=a222r.8723919/N.7560802029.2.OGK5Zg&wh_weex=true&wh_act_nativebar=2&acm=lb-zebra-236811-2111333.1003.4.1845305&scm=1003.4.lb-zebra-236811-2111333.OTHER_14959101688172_1845305",
+                        "data": "http://192.168.0.112:3000/#/fuelCard",
                         "text": "加油卡",
                         "imageUrl": "http://tututo.me/images/home_menu4.png"
                     },
                     {
                         "type": "html",
-                        "data": "https://618.tmall.com/?spm=a222r.8723919/N.7560802029.2.OGK5Zg&wh_weex=true&wh_act_nativebar=2&acm=lb-zebra-236811-2111333.1003.4.1845305&scm=1003.4.lb-zebra-236811-2111333.OTHER_14959101688172_1845305",
+                        "data": "http://192.168.0.112:3000/#/fuelCard",
                         "text": "房产中心",
                         "imageUrl": "http://tututo.me/images/home_menu3.png"
                     },
@@ -97,32 +97,32 @@
                         "imageUrl": "http://tututo.me/images/home_menu2.png"
                     },
                     {
-                        "type": "html",
+                        "type": "native",
                         "data": "签到",
                         "text": "签到",
                         "imageUrl": "http://tututo.me/images/home_menu1.png"
                     },
                     {
-                        "type": "html",
-                        "data": "https://618.tmall.com/?spm=a222r.8723919/N.7560802029.2.OGK5Zg&wh_weex=true&wh_act_nativebar=2&acm=lb-zebra-236811-2111333.1003.4.1845305&scm=1003.4.lb-zebra-236811-2111333.OTHER_14959101688172_1845305",
+                        "type": "native",
+                        "data": "团购商城",
                         "text": "团购商城",
                         "imageUrl": "http://tututo.me/images/home_menu6.png"
                     },
                     {
                         "type": "html",
-                        "data": "https://618.tmall.com/?spm=a222r.8723919/N.7560802029.2.OGK5Zg&wh_weex=true&wh_act_nativebar=2&acm=lb-zebra-236811-2111333.1003.4.1845305&scm=1003.4.lb-zebra-236811-2111333.OTHER_14959101688172_1845305",
+                        "data": "http://192.168.0.112:3000/#/spread",
                         "text": "鑫园金融",
                         "imageUrl": "http://tututo.me/images/home_menu7.png"
                     },
                     {
                         "type": "html",
-                        "data": "https://618.tmall.com/?spm=a222r.8723919/N.7560802029.2.OGK5Zg&wh_weex=true&wh_act_nativebar=2&acm=lb-zebra-236811-2111333.1003.4.1845305&scm=1003.4.lb-zebra-236811-2111333.OTHER_14959101688172_1845305",
+                        "data": "http://192.168.0.112:3000/#/spread",
                         "text": "运营中心",
                         "imageUrl": "http://tututo.me/images/home_menu8.png"
                     },
                     {
                         "type": "html",
-                        "data": "推广中心https://618.tmall.com/?spm=a222r.8723919/N.7560802029.2.OGK5Zg&wh_weex=true&wh_act_nativebar=2&acm=lb-zebra-236811-2111333.1003.4.1845305&scm=1003.4.lb-zebra-236811-2111333.OTHER_14959101688172_1845305",
+                        "data": "http://192.168.0.112:3000/#/spread",
                         "text": "推广中心",
                         "imageUrl": "http://tututo.me/images/home_menu9.png"
                     },
@@ -319,7 +319,7 @@
                  "goodsType":0,
 					"goodsActive":"",
                     "goodsPrice": 166.00,
-                    "consumeNum": 123,
+                    "consumeNum": 123,,
                     "imageUrl": "https://uploadjava.bizpower.com/image/fb/69/fb696746e403b44c0b093cecb42250d8.jpg"
                 },
                 {
