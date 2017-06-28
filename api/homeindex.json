@@ -80,13 +80,13 @@
                     },
                     {
                         "type": "html",
-                        "data": "http://192.168.0.112:3000/#/fuelCard",
+                        "data": "http://192.168.0.112:3000/fuelCard",
                         "text": "加油卡",
                         "imageUrl": "http://tututo.me/images/home_menu4.png"
                     },
                     {
                         "type": "html",
-                        "data": "http://192.168.0.112:3000/#/fuelCard",
+                        "data": "http://192.168.0.112:3000/fuelCard",
                         "text": "房产中心",
                         "imageUrl": "http://tututo.me/images/home_menu3.png"
                     },
@@ -110,7 +110,7 @@
                     },
                     {
                         "type": "html",
-                        "data": "http://192.168.0.112:3000/#/spread",
+                        "data": "http://192.168.0.112:3000/spread",
                         "text": "鑫园金融",
                         "imageUrl": "http://tututo.me/images/home_menu7.png"
                     },
@@ -122,7 +122,7 @@
                     },
                     {
                         "type": "html",
-                        "data": "http://192.168.0.112:3000/#/spread",
+                        "data": "http://192.168.0.112:3000/spread",
                         "text": "推广中心",
                         "imageUrl": "http://tututo.me/images/home_menu9.png"
                     },
