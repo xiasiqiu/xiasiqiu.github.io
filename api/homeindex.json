@@ -116,7 +116,7 @@
                     },
                     {
                         "type": "html",
-                        "data": "http://192.168.0.112:3000/#/spread",
+                        "data": "http://192.168.0.112:3000/operate",
                         "text": "运营中心",
                         "imageUrl": "http://tututo.me/images/home_menu8.png"
                     },
