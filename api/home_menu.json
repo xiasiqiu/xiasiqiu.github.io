@@ -1,0 +1,185 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "type": "native",
+            "data": "品牌店铺",
+            "text": "品牌店铺",
+            "imageUrl": "http://tututo.me/images/home_menu5.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/fuelCard",
+            "text": "加油卡",
+            "imageUrl": "http://tututo.me/images/home_menu4.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/fuelCard",
+            "text": "房产中心",
+            "imageUrl": "http://tututo.me/images/home_menu3.png"
+        },
+        {
+            "type": "native",
+            "data": "积分中心",
+            "text": "积分中心",
+            "imageUrl": "http://tututo.me/images/home_menu2.png"
+        },
+        {
+            "type": "native",
+            "data": "签到",
+            "text": "签到",
+            "imageUrl": "http://tututo.me/images/home_menu1.png"
+        },
+        {
+            "type": "native",
+            "data": "团购商城",
+            "text": "团购商城",
+            "imageUrl": "http://tututo.me/images/home_menu6.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/spread",
+            "text": "鑫园金融",
+            "imageUrl": "http://tututo.me/images/home_menu7.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/operate",
+            "text": "运营中心",
+            "imageUrl": "http://tututo.me/images/home_menu8.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/spread",
+            "text": "推广中心",
+            "imageUrl": "http://tututo.me/images/home_menu9.png"
+        },
+        {
+            "type": "native",
+            "data": "查看更多",
+            "text": "查看更多",
+            "imageUrl": "http://tututo.me/images/home_menu10.png"
+        },
+        {
+            "type": "native",
+            "data": "品牌店铺",
+            "text": "品牌店铺",
+            "imageUrl": "http://tututo.me/images/home_menu5.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/fuelCard",
+            "text": "加油卡",
+            "imageUrl": "http://tututo.me/images/home_menu4.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/fuelCard",
+            "text": "房产中心",
+            "imageUrl": "http://tututo.me/images/home_menu3.png"
+        },
+        {
+            "type": "native",
+            "data": "积分中心",
+            "text": "积分中心",
+            "imageUrl": "http://tututo.me/images/home_menu2.png"
+        },
+        {
+            "type": "native",
+            "data": "签到",
+            "text": "签到",
+            "imageUrl": "http://tututo.me/images/home_menu1.png"
+        },
+        {
+            "type": "native",
+            "data": "团购商城",
+            "text": "团购商城",
+            "imageUrl": "http://tututo.me/images/home_menu6.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/spread",
+            "text": "鑫园金融",
+            "imageUrl": "http://tututo.me/images/home_menu7.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/operate",
+            "text": "运营中心",
+            "imageUrl": "http://tututo.me/images/home_menu8.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/spread",
+            "text": "推广中心",
+            "imageUrl": "http://tututo.me/images/home_menu9.png"
+        },
+        {
+            "type": "native",
+            "data": "查看更多",
+            "text": "查看更多",
+            "imageUrl": "http://tututo.me/images/home_menu10.png"
+        },
+        {
+            "type": "native",
+            "data": "品牌店铺",
+            "text": "品牌店铺",
+            "imageUrl": "http://tututo.me/images/home_menu5.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/fuelCard",
+            "text": "加油卡",
+            "imageUrl": "http://tututo.me/images/home_menu4.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/fuelCard",
+            "text": "房产中心",
+            "imageUrl": "http://tututo.me/images/home_menu3.png"
+        },
+        {
+            "type": "native",
+            "data": "积分中心",
+            "text": "积分中心",
+            "imageUrl": "http://tututo.me/images/home_menu2.png"
+        },
+        {
+            "type": "native",
+            "data": "签到",
+            "text": "签到",
+            "imageUrl": "http://tututo.me/images/home_menu1.png"
+        },
+        {
+            "type": "native",
+            "data": "团购商城",
+            "text": "团购商城",
+            "imageUrl": "http://tututo.me/images/home_menu6.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/spread",
+            "text": "鑫园金融",
+            "imageUrl": "http://tututo.me/images/home_menu7.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/operate",
+            "text": "运营中心",
+            "imageUrl": "http://tututo.me/images/home_menu8.png"
+        },
+        {
+            "type": "html",
+            "data": "http://192.168.0.112:3000/spread",
+            "text": "推广中心",
+            "imageUrl": "http://tututo.me/images/home_menu9.png"
+        },
+        {
+            "type": "native",
+            "data": "查看更多",
+            "text": "查看更多",
+            "imageUrl": "http://tututo.me/images/home_menu10.png"
+        }
+    ]
+}
