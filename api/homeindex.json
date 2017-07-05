@@ -145,8 +145,8 @@
                 "itemType": "ad",
                 "dataList": [
                     {
-                        "type": "special",
-                        "data": "10",
+                        "type": "html",
+                        "data": "https://h5.m.taobao.com/lanlan/index.html?scm=2027.1.2.10&content_id=125723639712&spm=a215s.7406091.widget.2&locate=widget-2",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/ad_1.png"
                     }
@@ -163,38 +163,38 @@
                 "itemType": "tab",
                 "dataList": [
                     {
-                        "type": "brand",
-                        "data": "连衣裙",
+                        "type": "html",
+                        "data": "http://h5.m.taobao.com/guide/detail.html?id=1_125723639712&spm=a2141.7990155.1.1&scm=1007.11419.80935.0",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab1_1.png"
                     },
                     {
-                        "type": "activity",
-                        "data": "冰箱",
+                        "type": "html",
+                        "data": "http://h5.m.taobao.com/guide/detail.html?id=1_125723639712&spm=a2141.7990155.1.1&scm=1007.11419.80935.0",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab1_2.png"
                     },
                     {
-                        "type": "keyword",
-                        "data": "汽车",
+                        "type": "html",
+                        "data": "http://h5.m.taobao.com/guide/detail.html?id=1_125723639712&spm=a2141.7990155.1.1&scm=1007.11419.80935.0",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab1_3.png"
                     },
                     {
-                        "type": "activity",
-                        "data": "电脑",
+                        "type": "good",
+                        "data": "123",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab1_4.png"
                     },
                     {
                         "type": "good",
-                        "data": "女包",
+                        "data": "123",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab1_5.png"
                     },
                     {
                         "type": "good",
-                        "data": "婴儿",
+                        "data": "123",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab1_6.png"
                     }
@@ -211,8 +211,8 @@
                 "itemType": "ad",
                 "dataList": [
                     {
-                        "type": "special",
-                        "data": "9",
+                        "type": "html",
+                        "data": "https://h5.m.taobao.com/guang/index.html?scm=2027.1.2.129&spm=a215s.7406091.widget.3&locate=widget-3",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/ad_2.png"
                     }
@@ -225,20 +225,20 @@
                 "itemType": "tab2",
                 "dataList": [
                     {
-                        "type": "brand",
-                        "data": "李宁",
+                        "type": "html",
+                        "data": "https://h5.m.taobao.com/guang/index.html?scm=2027.1.2.129&spm=a215s.7406091.widget.3&locate=widget-3",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab2_1.png"
                     },
                     {
-                        "type": "activity",
-                        "data": "零食",
+                        "type": "html",
+                        "data": "https://h5.m.taobao.com/guang/index.html?scm=2027.1.2.129&spm=a215s.7406091.widget.3&locate=widget-3",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab2_2.png"
                     },
                     {
-                        "type": "keyword",
-                        "data": "手机",
+                        "type": "html",
+                        "data": "https://h5.m.taobao.com/guang/index.html?scm=2027.1.2.129&spm=a215s.7406091.widget.3&locate=widget-3",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/tab2_3.png"
                     }
@@ -255,7 +255,7 @@
                 "itemType": "category",
                 "dataList": [
                     {
-                        "type": "special",
+                        "type": "good",
                         "data": "10",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/category1.png"
@@ -273,8 +273,8 @@
                 "itemType": "category",
                 "dataList": [
                     {
-                        "type": "special",
-                        "data": "10",
+                        "type": "html",
+                        "data": "https://h5.m.taobao.com/guang/index.html?scm=2027.1.2.129&spm=a215s.7406091.widget.3&locate=widget-3",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/category2.png"
                     }
@@ -291,7 +291,7 @@
                 "itemType": "category",
                 "dataList": [
                     {
-                        "type": "special",
+                        "type": "store",
                         "data": "10",
                         "text": "",
                         "imageUrl": "http://tututo.me/images/category3.png"
