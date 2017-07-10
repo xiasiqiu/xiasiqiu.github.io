@@ -1,0 +1,96 @@
+{
+    "code": 200,
+    "areaList": [
+        {
+            "id": 13,
+            "areaName": "成都市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "自贡市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "攀枝花市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "泸州市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "德阳市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "绵阳市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "广元市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "遂宁市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "内江市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "乐山市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "南充市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "眉山市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "达州市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        }
+    ]
+}

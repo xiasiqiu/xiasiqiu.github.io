@@ -1,0 +1,89 @@
+{
+    "code": 200,
+    "areaList": [
+        {
+            "id": 13,
+            "areaName": "浆洗街街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "芳草街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "小天竺街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "致民路街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "望江路街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "玉林街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "跳伞塔街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "火车南站街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "双楠街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "晋阳街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "红牌楼街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "肖家河街道",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        }
+    ]
+}

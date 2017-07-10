@@ -1,0 +1,124 @@
+{
+    "code": 200,
+    "areaList": [
+        {
+            "id": 11,
+            "areaName": "北京市",
+            "level": 1,
+            "area_id": 1,
+            "parent_id": 0
+        },
+        {
+            "id": 12,
+            "areaName": "天津市",
+            "level": 1,
+            "area_id": 338,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "河北省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "山西",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "内蒙古自治区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "辽宁省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "四川省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "黑龙江省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "上海市",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "江苏省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "浙江省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "安徽省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "福建省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "江西省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "山东省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "河南省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "湖北省",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        }
+    ]
+}

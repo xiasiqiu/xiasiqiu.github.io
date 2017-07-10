@@ -1,0 +1,61 @@
+{
+    "code": 200,
+    "areaList": [
+        {
+            "id": 13,
+            "areaName": "武侯区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "青羊区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "成华区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "锦江区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "金牛区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "高新区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "龙泉驿区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        },
+        {
+            "id": 13,
+            "areaName": "天府新区",
+            "level": 1,
+            "area_id": 636,
+            "parent_id": 0
+        }
+    ]
+}
