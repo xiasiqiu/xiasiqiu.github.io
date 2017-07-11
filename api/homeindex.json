@@ -319,7 +319,8 @@
                  "goodsType":0,
 					"goodsActive":"",
                     "goodsPrice": 166.00,
-                    "consumeNum": 123,
+                    "consumeNum": 643,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/fb/69/fb696746e403b44c0b093cecb42250d8.jpg"
                 },
                 {
@@ -328,7 +329,8 @@
                   "goodsType":0,
 					"goodsActive":"",
                     "goodsPrice": 166.00,
-                    "consumeNum": 123,
+                    "consumeNum": 281,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/0a/b2/0ab21ca1b7f3641887f533eae702bfa8.jpg"
                 },
                 {
@@ -337,7 +339,8 @@
                    "goodsType":0,
 					"goodsActive":"",
                     "goodsPrice": 166.00,
-                    "consumeNum": 123,
+                    "consumeNum": 844,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/58/89/58890299f4a43369e5c1aa0501d3d9c6.jpg"
                 },
                 {
@@ -346,7 +349,8 @@
                   "goodsType":0,
 					"goodsActive":"",
                     "goodsPrice": 166.00,
-                    "consumeNum": 123,
+                    "consumeNum": 823,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/27/f8/27f88afcf14ae60561ec1ea250c286ca.jpg"
                 },
                 {
@@ -356,6 +360,7 @@
 					"goodsActive":"",
                     "goodsPrice": 166.00,
                     "consumeNum": 123,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/25/bf/25bf73fe160b141bc34c635fa9edd9c3.jpg"
                 },
                 {
@@ -365,6 +370,7 @@
 					"goodsActive":"",
                     "goodsPrice": 166.00,
                     "consumeNum": 123,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/77/88/77884b64b31b24c86e74e07134e86cfb.jpg"
                 },
                 {
@@ -374,6 +380,7 @@
 					"goodsActive":"",
                     "goodsPrice": 166.00,
                     "consumeNum": 123,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/b5/5a/b55a3cd4f0d625d89afbb5ab8d65eca5.jpg"
                 },
                 {
@@ -383,6 +390,7 @@
 					"goodsActive":"",
                     "goodsPrice": 166.00,
                     "consumeNum": 123,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/fb/69/fb696746e403b44c0b093cecb42250d8.jpg"
                 },
                 {
@@ -392,6 +400,7 @@
 					"goodsActive":"",
                     "goodsPrice": 455.00,
                     "consumeNum": 323,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/0a/b2/0ab21ca1b7f3641887f533eae702bfa8.jpg"
                 },
                 {
@@ -401,6 +410,7 @@
 					"goodsActive":"",
                     "goodsPrice": 166.00,
                     "consumeNum": 123,
+					"goodsEvaNum":233,
                     "imageUrl": "https://uploadjava.bizpower.com/image/58/89/58890299f4a43369e5c1aa0501d3d9c6.jpg"
                 }
             ]
