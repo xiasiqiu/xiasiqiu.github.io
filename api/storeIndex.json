@@ -22,6 +22,11 @@
                 "goodId": 233,
                 "goodImg": "https://gd2.alicdn.com/imgextra/i2/50454948/TB23qQBubtlpuFjSspfXXXLUpXa_!!50454948.jpg",
                 "goodSellNum": 377
+            },
+            {
+                "goodId": 233,
+                "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2YZGGuthvOuFjSZFBXXcZgFXa_!!50454948.jpg_400x400.jpg",
+                "goodSellNum": 377
             }
         ],
         "sellList": [
@@ -38,6 +43,11 @@
             {
                 "goodId": 233,
                 "goodImg": "https://gd2.alicdn.com/imgextra/i3/50454948/TB24uh2wmFjpuFjSszhXXaBuVXa_!!50454948.jpg_400x400.jpg",
+                "goodSellNum": 733
+            },
+            {
+                "goodId": 233,
+                "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2YZGGuthvOuFjSZFBXXcZgFXa_!!50454948.jpg_400x400.jpg",
                 "goodSellNum": 733
             }
         ],
@@ -154,6 +164,27 @@
                 "couponName": "50元优惠券，满300可用",
                 "couponNum": 1
             }
-        ]
+        ],
+        "storeInfo": {
+            "storeId": 15,
+            "storeLevel": 3,
+            "storeLogo": "http://tututo.me/images/store_head.png",
+            "bannerBg": "http://www.htbeta.cn/t/pic_6.jpg",
+            "storeType": "服装鞋帽",
+            "storename": "能良数码官方旗舰店",
+            "fansNum": "120万",
+            "storeScore": 4.7,
+            "serviceScore": 4.8,
+            "logisticsScore": 4.9,
+            "storesign": [
+                "",
+                ""
+            ],
+            "storeAddress": "四川省成都市",
+            "createTime": "2016-2-11",
+            "storePhone": "18425783259",
+            "workTime": "8:00-23:00",
+            "followStatus": false
+        }
     }
 }
