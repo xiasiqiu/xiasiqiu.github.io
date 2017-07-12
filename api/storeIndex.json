@@ -1,6 +1,5 @@
 {
     "code": 200,
-    "datas": {
         "storeIndex": {
             "ad": {
                 "type": "good",
@@ -187,5 +186,5 @@
                 "followStatus": 0
             }
         }
-    }
+    
 }
