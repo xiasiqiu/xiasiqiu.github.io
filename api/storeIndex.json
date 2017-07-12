@@ -1,6 +1,6 @@
 {
     "code": 200,
-        "storeIndex": {
+        "datas": {
             "ad": {
                 "type": "good",
                 "data": "123",
