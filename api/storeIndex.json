@@ -177,8 +177,8 @@
             "serviceScore": 4.8,
             "logisticsScore": 4.9,
             "storesign": [
-                "",
-                ""
+                "https://tututo.me/images/ic_store_glod.png"
+             
             ],
             "storeAddress": "四川省成都市",
             "createTime": "2016-2-11",
