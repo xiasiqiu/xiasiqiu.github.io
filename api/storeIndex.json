@@ -174,8 +174,11 @@
                 "storename": "能良数码官方旗舰店",
                 "fansNum": "120万",
                 "storeScore": 4.7,
+				"storeScoreText":"与同行业低4%",
                 "serviceScore": 4.8,
+				"serviceScoreText":"与同行业低2%",
                 "logisticsScore": 4.9,
+				"logisticsScoreText":"与同行业高2%",
                 "storesign": [
                     "https://tututo.me/images/ic_store_glod.png"
                 ],
