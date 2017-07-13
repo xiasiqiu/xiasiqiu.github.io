@@ -22,11 +22,6 @@
                     "goodId": 233,
                     "goodImg": "https://gd2.alicdn.com/imgextra/i2/50454948/TB23qQBubtlpuFjSspfXXXLUpXa_!!50454948.jpg",
                     "goodSellNum": 377
-                },
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2YZGGuthvOuFjSZFBXXcZgFXa_!!50454948.jpg_400x400.jpg",
-                    "goodSellNum": 377
                 }
             ],
             "sellList": [
@@ -43,11 +38,6 @@
                 {
                     "goodId": 233,
                     "goodImg": "https://gd2.alicdn.com/imgextra/i3/50454948/TB24uh2wmFjpuFjSszhXXaBuVXa_!!50454948.jpg_400x400.jpg",
-                    "goodSellNum": 733
-                },
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2YZGGuthvOuFjSZFBXXcZgFXa_!!50454948.jpg_400x400.jpg",
                     "goodSellNum": 733
                 }
             ],
@@ -179,8 +169,7 @@
 				"serviceScoreText":"与同行业低2%",
                 "logisticsScore": 4.9,
 				"logisticsScoreText":"与同行业高2%",
-                "storesign": [
-                    "https://tututo.me/images/ic_store_glod.png"
+                "storesign": [ "https://tututo.me/images/ic_store_glod.png"
                 ],
                 "storeAddress": "四川省成都市",
                 "createTime": "2016-2-11",
