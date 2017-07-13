@@ -2,7 +2,8 @@
     "code": 200,
     "datas": {
         "goodsId": 154,
-        "goodsType": 0,
+        "goodsType": 2,
+        "goodActive": 0,
         "banner": [
             {
                 "imgUrl": "http://gw.alicdn.com/imgextra/i1/50454948/TB23mIptwJlpuFjSspjXXcT.pXa_!!50454948.jpg_970x970q50s150.jpg",
