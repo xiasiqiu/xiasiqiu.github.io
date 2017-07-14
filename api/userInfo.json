@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "datas": {
+        "userId": 231,
+        "headImg": "https://tututo.me/images/touxiang.jpg",
+        "userName": "idfxqqwe",
+        "userCredit": 554,
+        "favNum": 42,
+        "followNum": 12,
+        "historyNum": 155,
+        "UserGender": 1,
+        "UserBirthday": "1994-08-24"
+    }
+}
