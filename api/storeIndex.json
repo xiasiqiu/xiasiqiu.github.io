@@ -169,7 +169,7 @@
 				"serviceScoreText":"与同行业低2%",
                 "logisticsScore": 4.9,
 				"logisticsScoreText":"与同行业高2%",
-                "storesign": [ "https://tututo.me/images/ic_store_glod.png"
+                "storesign": [ "http://tututo.me/images/ic_store_glod.png"
                 ],
                 "storeAddress": "四川省成都市",
                 "createTime": "2016-2-11",
