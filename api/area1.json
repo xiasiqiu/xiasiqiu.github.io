@@ -1,6 +1,7 @@
 {
     "code": 200,
-    "areaList": [
+	"msg":"返回成功",
+    "datas": [
         {
             "id": 13,
             "areaName": "成都市",

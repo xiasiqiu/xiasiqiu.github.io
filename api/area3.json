@@ -1,6 +1,7 @@
 {
-    "code": 200,
-    "areaList": [
+   "code": 200,
+	"msg":"返回成功",
+    "datas":[
         {
             "id": 13,
             "areaName": "浆洗街街道",
