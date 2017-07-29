@@ -1,182 +1,184 @@
 {
     "code": 200,
-        "datas": {
-            "ad": {
-                "type": "good",
-                "data": "123",
-                "text": "促销商品",
-                "imageUrl": "http://gdp.alicdn.com/imgextra/i2/50454948/TB2s1hbpxRDOuFjSZFzXXcIipXa_!!50454948.jpg"
+    "datas": {
+        "ad": {
+            "type": "good",
+            "data": "123",
+            "text": "促销商品",
+            "imageUrl": "http://gdp.alicdn.com/imgextra/i2/50454948/TB2s1hbpxRDOuFjSZFzXXcIipXa_!!50454948.jpg"
+        },
+        "favList": [
+            {
+                "goodId": 233,
+                "goodImg": "https://gd3.alicdn.com/imgextra/i4/50454948/TB2fKXFurFkpuFjy1XcXXclapXa_!!50454948.jpg_400x400.jpg",
+                "goodSellNum": 523
             },
-            "favList": [
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd3.alicdn.com/imgextra/i4/50454948/TB2fKXFurFkpuFjy1XcXXclapXa_!!50454948.jpg_400x400.jpg",
-                    "goodSellNum": 523
-                },
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd3.alicdn.com/imgextra/i1/50454948/TB2l7_NtiC9MuFjSZFoXXbUzFXa_!!50454948.jpg_400x400.jpg",
-                    "goodSellNum": 622
-                },
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd2.alicdn.com/imgextra/i2/50454948/TB23qQBubtlpuFjSspfXXXLUpXa_!!50454948.jpg",
-                    "goodSellNum": 377
-                }
-            ],
-            "sellList": [
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2YZGGuthvOuFjSZFBXXcZgFXa_!!50454948.jpg_400x400.jpg",
-                    "goodSellNum": 123
-                },
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2qS8VwmFjpuFjSszhXXaBuVXa_!!50454948.jpg_400x400.jpg",
-                    "goodSellNum": 345
-                },
-                {
-                    "goodId": 233,
-                    "goodImg": "https://gd2.alicdn.com/imgextra/i3/50454948/TB24uh2wmFjpuFjSszhXXaBuVXa_!!50454948.jpg_400x400.jpg",
-                    "goodSellNum": 733
-                }
-            ],
-            "recomList": [
-                {
-                    "commonId": 296,
-                    "goodsName": "梅子熟了文艺高腰系带半身裙复古双层大裙摆中长伞裙女夏2017新款",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 643,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2l7_NtiC9MuFjSZFoXXbUzFXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 288,
-                    "goodsName": "梅子熟了 复古格子短款宽吊带背心 文艺雪纺无袖上衣女夏2017新款",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 281,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB20lhVuM0kpuFjSspdXXX4YXXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 288,
-                    "goodsName": "梅子熟了 复古印花雪纺中长半身裙 文艺高腰系带A字裙女夏装2017",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 844,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2OaIIubtlpuFjSspfXXXLUpXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 281,
-                    "goodsName": "梅子熟了 文艺森系圆领喇叭袖T恤 复古棉质刺绣上衣女 2017夏新款",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 823,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2Nkk7ubJkpuFjy1zcXXa5FFXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 274,
-                    "goodsName": "梅子熟了 复古立领盘扣雪纺衫 文艺绣花白色上衣女 2017夏装新款",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 123,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i2/50454948/TB20tQ0ubFlpuFjy0FgXXbRBVXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 273,
-                    "goodsName": "梅子熟了 文艺森系无袖背心 复古印花短款雪纺上衣 2017新款女夏",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 123,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i3/50454948/TB2RpA8ugRkpuFjy1zeXXc.6FXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 272,
-                    "goodsName": "梅子熟了 文艺圆领短款背心 复古森系菠萝印花上衣女 新款2017夏",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 123,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2Bb38ubJkpuFjy1zcXXa5FFXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 296,
-                    "goodsName": "梅子熟了 复古盘扣短袖连衣裙 文艺蕾丝两件套裙子女装新款2017夏",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 123,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i4/50454948/TB2a6NJuB8lpuFjy0FnXXcZyXXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 288,
-                    "goodsName": "梅子熟了 复古森系蕾丝拼接连衣裙 文艺印花雪纺裙子女夏2017新款",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 455.00,
-                    "consumeNum": 323,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i2/50454948/TB2cuJhurXlpuFjy1zbXXb_qpXa_!!50454948.jpg_240x240.jpg"
-                },
-                {
-                    "commonId": 288,
-                    "goodsName": "梅子熟了 复古X背带裙侧开叉文艺中长款无袖吊带裙子女夏2017新款",
-                    "goodsType": 0,
-                    "goodsActive": "",
-                    "goodsPrice": 166.00,
-                    "consumeNum": 123,
-                    "goodsEvaNum": 233,
-                    "imageUrl": "https://img.alicdn.com/bao/uploaded/i2/50454948/TB2oncIubXlpuFjSszfXXcSGXXa_!!50454948.jpg_240x240.jpg"
-                }
-            ],
-            "couponList": [
-                {
-                    "couponId": 332,
-                    "couponName": "20元优惠券，满180可用",
-                    "couponNum": 1
-                },
-                {
-                    "couponId": 332,
-                    "couponName": "50元优惠券，满300可用",
-                    "couponNum": 1
-                }
-            ],
-            "storeInfo": {
-                "storeId": 15,
-                "storeLevel": 3,
-                "storeLogo": "http://tututo.me/images/store_head.png",
-                "bannerBg": "http://www.htbeta.cn/t/pic_6.jpg",
-                "storeType": "服装鞋帽",
-                "storename": "能良数码官方旗舰店",
-                "fansNum": "120万",
-                "storeScore": 4.7,
-				"storeScoreText":"与同行业低4%",
-                "serviceScore": 4.8,
-				"serviceScoreText":"与同行业低2%",
-                "logisticsScore": 4.9,
-				"logisticsScoreText":"与同行业高2%",
-                "storesign": [ "http://tututo.me/images/ic_store_glod.png"
-                ],
-                "storeAddress": "四川省成都市",
-                "createTime": "2016-2-11",
-                "storePhone": "18425783259",
-                "workTime": "8:00-23:00",
-                "followStatus": 0
+            {
+                "goodId": 233,
+                "goodImg": "https://gd3.alicdn.com/imgextra/i1/50454948/TB2l7_NtiC9MuFjSZFoXXbUzFXa_!!50454948.jpg_400x400.jpg",
+                "goodSellNum": 622
+            },
+            {
+                "goodId": 233,
+                "goodImg": "https://gd2.alicdn.com/imgextra/i2/50454948/TB23qQBubtlpuFjSspfXXXLUpXa_!!50454948.jpg",
+                "goodSellNum": 377
             }
+        ],
+        "sellList": [
+            {
+                "goodId": 233,
+                "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2YZGGuthvOuFjSZFBXXcZgFXa_!!50454948.jpg_400x400.jpg",
+                "goodSellNum": 123
+            },
+            {
+                "goodId": 233,
+                "goodImg": "https://gd1.alicdn.com/imgextra/i1/50454948/TB2qS8VwmFjpuFjSszhXXaBuVXa_!!50454948.jpg_400x400.jpg",
+                "goodSellNum": 345
+            },
+            {
+                "goodId": 233,
+                "goodImg": "https://gd2.alicdn.com/imgextra/i3/50454948/TB24uh2wmFjpuFjSszhXXaBuVXa_!!50454948.jpg_400x400.jpg",
+                "goodSellNum": 733
+            }
+        ],
+        "recomList": [
+            {
+                "commonId": 296,
+                "goodsName": "梅子熟了文艺高腰系带半身裙复古双层大裙摆中长伞裙女夏2017新款",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 643,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2l7_NtiC9MuFjSZFoXXbUzFXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 288,
+                "goodsName": "梅子熟了 复古格子短款宽吊带背心 文艺雪纺无袖上衣女夏2017新款",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 281,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB20lhVuM0kpuFjSspdXXX4YXXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 288,
+                "goodsName": "梅子熟了 复古印花雪纺中长半身裙 文艺高腰系带A字裙女夏装2017",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 844,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2OaIIubtlpuFjSspfXXXLUpXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 281,
+                "goodsName": "梅子熟了 文艺森系圆领喇叭袖T恤 复古棉质刺绣上衣女 2017夏新款",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 823,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2Nkk7ubJkpuFjy1zcXXa5FFXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 274,
+                "goodsName": "梅子熟了 复古立领盘扣雪纺衫 文艺绣花白色上衣女 2017夏装新款",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 123,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i2/50454948/TB20tQ0ubFlpuFjy0FgXXbRBVXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 273,
+                "goodsName": "梅子熟了 文艺森系无袖背心 复古印花短款雪纺上衣 2017新款女夏",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 123,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i3/50454948/TB2RpA8ugRkpuFjy1zeXXc.6FXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 272,
+                "goodsName": "梅子熟了 文艺圆领短款背心 复古森系菠萝印花上衣女 新款2017夏",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 123,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i1/50454948/TB2Bb38ubJkpuFjy1zcXXa5FFXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 296,
+                "goodsName": "梅子熟了 复古盘扣短袖连衣裙 文艺蕾丝两件套裙子女装新款2017夏",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 123,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i4/50454948/TB2a6NJuB8lpuFjy0FnXXcZyXXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 288,
+                "goodsName": "梅子熟了 复古森系蕾丝拼接连衣裙 文艺印花雪纺裙子女夏2017新款",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 455,
+                "consumeNum": 323,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i2/50454948/TB2cuJhurXlpuFjy1zbXXb_qpXa_!!50454948.jpg_240x240.jpg"
+            },
+            {
+                "commonId": 288,
+                "goodsName": "梅子熟了 复古X背带裙侧开叉文艺中长款无袖吊带裙子女夏2017新款",
+                "goodsType": 0,
+                "goodsActive": "",
+                "goodsPrice": 166,
+                "consumeNum": 123,
+                "goodsEvaNum": 233,
+                "imageUrl": "https://img.alicdn.com/bao/uploaded/i2/50454948/TB2oncIubXlpuFjSszfXXcSGXXa_!!50454948.jpg_240x240.jpg"
+            }
+        ],
+        "couponList": [
+            {
+                "couponId": 332,
+                "couponName": "20元优惠券，满180可用",
+                "couponNum": 1,
+                "status": 1
+            },
+            {
+                "couponId": 332,
+                "couponName": "50元优惠券，满300可用",
+                "couponNum": 1,
+                "status": 2
+            }
+        ],
+        "storeInfo": {
+            "storeId": 15,
+            "storeLevel": 3,
+            "storeLogo": "http://tututo.me/images/store_head.png",
+            "bannerBg": "http://www.htbeta.cn/t/pic_6.jpg",
+            "storeType": "服装鞋帽",
+            "storename": "能良数码官方旗舰店",
+            "fansNum": "120万",
+            "storeScore": 4.7,
+            "storeScoreText": "与同行业低4%",
+            "serviceScore": 4.8,
+            "serviceScoreText": "与同行业低2%",
+            "logisticsScore": 4.9,
+            "logisticsScoreText": "与同行业高2%",
+            "storesign": [
+                "http://tututo.me/images/ic_store_glod.png"
+            ],
+            "storeAddress": "四川省成都市",
+            "createTime": "2016-2-11",
+            "storePhone": "18425783259",
+            "workTime": "8:00-23:00",
+            "followStatus": 0
         }
-    
+    }
 }
