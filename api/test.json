@@ -12,16 +12,20 @@
                     ],
                     "chaseRatingInfo": "追  追评。。。",
                     "chaseRatingTime": 2,
-                    "chaseRatingReplay": ""
+                    "chaseRatingReplay": "as"
                 },
                 "replay": "好的哈",
                 "time": "2017-08-14",
                 "seeNumber": 2250,
                 "evaluateRating": 5,
                 "evaluateUserImg": "http://192.168.0.123\\upload/mobile_user_image\\08090416-dec1-49c0-8e94-f6c03f6627b2.jpg",
-                "evaluateImgList": "[\n                    \"http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg\",\n                    \"http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg\",\n                    \"http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg\"\n                ],",
+                "evaluateImgList": [
+                    "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                    "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                    "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"
+                ],
                 "evaluateName": "t******t",
-                "pointNumber": 0,
+                "pointNumber": 234,
                 "evaluateInfo": "商品不错哟。",
                 "params": null
             },
@@ -29,17 +33,17 @@
                 "chaseRatings": {
                     "chaseRatingImgList": null,
                     "chaseRatingInfo": "追  追评。。。",
-                    "chaseRatingTime": 0,
-                    "chaseRatingReplay": ""
+                    "chaseRatingTime": 4,
+                    "chaseRatingReplay": "2"
                 },
                 "replay": "",
                 "time": "2017-08-14",
-                "seeNumber": 0,
+                "seeNumber": 123,
                 "evaluateRating": 5,
                 "evaluateUserImg": "http://192.168.0.123\\upload/mobile_user_image\\08090416-dec1-49c0-8e94-f6c03f6627b2.jpg",
                 "evaluateImgList": null,
                 "evaluateName": "t******t",
-                "pointNumber": 0,
+                "pointNumber": 432,
                 "evaluateInfo": "商品不错哟。",
                 "params": null
             }
