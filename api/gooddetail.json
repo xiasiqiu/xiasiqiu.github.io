@@ -107,7 +107,7 @@
                 {
                     "chaseRatings": 
                         {
-                            "chaseRatingImgList": "",
+                            "chaseRatingImgList": null,
                             "chaseRatingInfo": "商品不错哟  ",
                             "chaseRatingReplay": ""
                         }
@@ -128,7 +128,7 @@
                 {
                     "chaseRatings": 
                         {
-                            "chaseRatingImgList": "",
+                            "chaseRatingImgList": null,
                             "chaseRatingInfo": "商品不错哟  ",
                             "chaseRatingReplay": ""
                         }
