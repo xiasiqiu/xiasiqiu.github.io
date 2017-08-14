@@ -2,21 +2,68 @@
     "evaluateList": [
         {
             "chaseRatings": {
+                "chaseRatingImgList": [
+                    "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                    "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                    "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"
+                ],
+                "chaseRatingInfo": "追  追评。。。",
+                "chaseRatingTime": 2,
+                "chaseRatingReplay": ""
+            },
+            "replay": "好的哈",
+            "time": "2017-08-14",
+            "seeNumber": 2250,
+            "evaluateRating": 5,
+            "evaluateUserImg": "http://192.168.0.123\\upload/mobile_user_image\\08090416-dec1-49c0-8e94-f6c03f6627b2.jpg",
+            "evaluateImgList": [
+                "https://img.alicdn.com/imgextra/i3/0/TB23EUIxUdnpuFjSZPhXXbChpXa_!!0-rate.jpg_400x400.jpg",
+                "https://img.alicdn.com/imgextra/i3/0/TB2eCMWxOpnpuFjSZFkXXc4ZpXa_!!0-rate.jpg_400x400.jpg"
+            ],
+            "evaluateName": "t******t",
+            "pointNumber": 123,
+            "evaluateInfo": "商品不错哟。",
+            "params": [
+                {
+                    "key": "颜色",
+                    "value": "KO2黄色"
+                },
+                {
+                    "key": "尺码",
+                    "value": "M"
+                }
+            ]
+        },
+        {
+            "chaseRatings": {
                 "chaseRatingImgList": [],
                 "chaseRatingInfo": "追  追评。。。",
                 "chaseRatingTime": 0,
                 "chaseRatingReplay": ""
             },
-            "replay": "",
+            "replay": 3,
             "time": "2017-08-14",
-            "seeNumber": 0,
+            "seeNumber": 23123,
             "evaluateRating": 5,
             "evaluateUserImg": "http://192.168.0.123\\upload/mobile_user_image\\08090416-dec1-49c0-8e94-f6c03f6627b2.jpg",
-            "evaluateImgList": [],
+            "evaluateImgList": [
+                "http://www.xinsoufushi.cn/Uploadfiles/20130216202418574.jpg",
+                "http://www.2298.com/UploadStorage/169833/2f9864ca8d2bb0ba0d7061831fccc500.jpg",
+                "http://imgbrand.gq.com.cn/data/attachments/2012/10/1350218450ad57a2278ceb40cc.jpg"
+            ],
             "evaluateName": "t******t",
             "pointNumber": 0,
-            "evaluateInfo": "有了有了",
-            "params": ""
+            "evaluateInfo": "商品不错哟。",
+            "params": [
+                {
+                    "key": "颜色",
+                    "value": "KO2黄色"
+                },
+                {
+                    "key": "尺码",
+                    "value": "M"
+                }
+            ]
         }
     ],
     "code": "200",
