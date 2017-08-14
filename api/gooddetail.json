@@ -1,4 +1,4 @@
-{
+﻿{
     "code": 200,
     "datas": {
         "goodsId": 154,
@@ -105,79 +105,46 @@
             "blueprint": 60,
             "list": [
                 {
-                    "headImg": "http://img01.sogoucdn.com/app/a/100520093/d27bf6c25ece6d98-219d425a1e25445a-f6e35bb492cb2c14188181cfb5438b30.jpg",
-                    "name": "j***r",
-                    "commentLevel": 5,
-                    "commentContent": "真品速度快好用高大上",
-                    "commentImg": [
-                        "https://img.alicdn.com/bao/uploaded/i2/1247306064496766380/TB24IBBtwJlpuFjSspjXXcT.pXa_!!0-rate.jpg_400x400.jpg",
-                        "https://img.alicdn.com/bao/uploaded/i1/1486406060444919369/TB2MYCMsHBkpuFjy1zkXXbSpFXa_!!0-rate.jpg_400x400.jpg",
-                        "https://img.alicdn.com/bao/uploaded/i4/1486406060445494148/TB2uymswypnpuFjSZFIXXXh2VXa_!!0-rate.jpg_400x400.jpg"
-                    ],
-                    "lookCount": 1540,
-                    "praiseCount": 50,
-                    "time": "2017-6-6",
-                    "params": [
+                    "chaseRatings": [
                         {
-                            "key": "网络类型",
-                            "value": "无需合约版"
-                        },
-                        {
-                            "key": "颜色",
-                            "value": "红色特别版"
-                        },
-                        {
-                            "key": "套餐类型",
-                            "value": "官方标配"
-                        },
-                        {
-                            "key": "存储容量",
-                            "value": "128GB"
+                            "chaseRatingImgList": "",
+                            "chaseRatingInfo": "商品不错哟  ",
+                            "chaseRatingReplay": ""
                         }
                     ],
-                    "commentMore": {
-                        "time": "",
-                        "content": "",
-                        "imgList": []
-                    }
+                    "replay": "",
+                    "time": "2017-08-14",
+                    "seeNumber": 0,
+                    "evaluateRating": 0,
+                    "evaluateUserImg": "http://192.168.0.123\\upload/mobile_user_image\\08090416-dec1-49c0-8e94-f6c03f6627b2.jpg",
+                    "evaluateImgList": [
+                        "http://192.168.0.123\\uploa534d/test123\\10.53.jpg"
+                    ],
+                    "evaluateName": "t******t",
+                    "pointNumber": 0,
+                    "evaluateInfo": "有了有了",
+                    "params": ""
                 },
                 {
-                    "headImg": "http://up.qqya.com/allimg/201710-t/17-101803_91350.jpg",
-                    "name": "东风清风",
-                    "commentLevel": 5,
-                    "commentContent": "手机非常不错，外观好，速度非常快，玩游戏很流畅～听歌音质效果那是没得讲的 顶尖 电量呢智能手机应该都这样吧1天1充～在电量方面问题问了下客服 贝壳的解答很满意 不错 以后有问题继续咨询 贝壳全5分～！",
-                    "commentImg": [
-                        "https://img.alicdn.com/bao/uploaded/i4/1175906058895604630/TB2Jx5wbBU4h1JjSZFLXXaFMpXa_!!0-rate.jpg_400x400.jpg",
-                        "https://img.alicdn.com/bao/uploaded/i2/1175906059175162317/TB29l1wwm0mpuFjSZPiXXbssVXa_!!0-rate.jpg_400x400.jpg"
-                    ],
-                    "lookCount": 150,
-                    "praiseCount": 55,
-                    "time": "2017-6-6",
-                    "params": [
+                    "chaseRatings": [
                         {
-                            "key": "网络类型",
-                            "value": "无需合约版"
-                        },
-                        {
-                            "key": "颜色",
-                            "value": "黑色"
-                        },
-                        {
-                            "key": "套餐类型",
-                            "value": "官方标配"
-                        },
-                        {
-                            "key": "存储容量",
-                            "value": "128GB"
+                            "chaseRatingImgList": "",
+                            "chaseRatingInfo": "商品不错哟  ",
+                            "chaseRatingReplay": ""
                         }
                     ],
-                    "commentMore": {
-                        "time": "2",
-                        "content": "手机的还行",
-                        "imgList": [
-                            "https://img.alicdn.com/imgextra/i4/0/TB2DnquubFkpuFjy1XcXXclapXa_!!0-rate.jpg_400x400.jpg"
-                        ]
-                    }
+                    "replay": "",
+                    "time": "2017-08-14",
+                    "seeNumber": 0,
+                    "evaluateRating": 0,
+                    "evaluateUserImg": "http://192.168.0.123\\upload/mobile_user_image\\08090416-dec1-49c0-8e94-f6c03f6627b2.jpg",
+                    "evaluateImgList": [
+                        "http://192.168.0.123\\uploa534d/test123\\10.53.jpg"
+                    ],
+                    "evaluateName": "t******t",
+                    "pointNumber": 0,
+                    "evaluateInfo": "有了有了",
+                    "params": ""
                 }
             ]
         },
@@ -632,7 +599,9 @@
             ],
             "goodsScore": 4.7,
             "serverScore": 4.8,
-            "logisticsScore": 4.9
+            "logisticsScore": 4.9,
+            "servicerId": 12312,
+            "serviceName": "xymall"
         },
         "goodsDetailImg": [
             "https://img.alicdn.com/imgextra/i4/196993935/TB24mxhsmBjpuFjy1XdXXaooVXa-196993935.jpg_790x10000Q30.jpg",
