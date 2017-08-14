@@ -105,13 +105,13 @@
             "blueprint": 60,
             "list": [
                 {
-                    "chaseRatings": [
+                    "chaseRatings": 
                         {
                             "chaseRatingImgList": "",
                             "chaseRatingInfo": "商品不错哟  ",
                             "chaseRatingReplay": ""
                         }
-                    ],
+                    ,
                     "replay": "",
                     "time": "2017-08-14",
                     "seeNumber": 0,
@@ -126,13 +126,13 @@
                     "params": ""
                 },
                 {
-                    "chaseRatings": [
+                    "chaseRatings": 
                         {
                             "chaseRatingImgList": "",
                             "chaseRatingInfo": "商品不错哟  ",
                             "chaseRatingReplay": ""
                         }
-                    ],
+                    ,
                     "replay": "",
                     "time": "2017-08-14",
                     "seeNumber": 0,
