@@ -1,0 +1,10 @@
+{
+    "datas": {
+        "appName": "xinyuan.apk",
+        "serverVersion": "0.0.9",
+        "updateUrl": "https://tututo.me/api/xinyuan.apk",
+        "upgradeInfo": "强烈更新，必须更新"
+    },
+    "code": "200",
+    "msg": "app更新记录"
+}
