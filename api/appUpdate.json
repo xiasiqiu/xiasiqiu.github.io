@@ -1,7 +1,7 @@
 {
     "datas": {
         "appname": "xinyuan.apk",
-        "serverVersion": "0.0.9",
+        "serverVersion": "0.8.5",
         "updateurl": "https://tututo.me/api/xinyuan.apk",
         "upgradeinfo": "强烈更新，必须更新"
     },
