@@ -1,7 +1,7 @@
 {
     "datas": {
         "appName": "xinyuan.apk",
-        "serverVersion": "1.0.0",
+        "serverVersion": "0.8.5",
         "updateUrl": "https://raw.githubusercontent.com/xiasiqiu/xiasiqiu.github.io/master/api/xinyuan.apk",
         "upgradeInfo": "强烈更新，必须更新"
     },
