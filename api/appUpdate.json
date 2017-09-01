@@ -1,9 +1,9 @@
 {
     "datas": {
-        "appName": "xinyuan.apk",
-        "serverVersion": "0.8.5",
-        "updateUrl": "https://raw.githubusercontent.com/xiasiqiu/xiasiqiu.github.io/master/api/xinyuan.apk",
-        "upgradeInfo": "强烈更新，必须更新"
+        "appname": "xinyuan.apk",
+        "serverVersion": "0.0.9",
+        "updateurl": "https://tututo.me/api/xinyuan.apk",
+        "upgradeinfo": "强烈更新，必须更新"
     },
     "code": "200",
     "msg": "app更新记录"
